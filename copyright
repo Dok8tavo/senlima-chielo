@@ -1,0 +1,8 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Source: https://github.com/Dok8tavo/senlima-chielo
+
+Files: *
+License: GPL-3+
+Comment:
+    Original content: Copyright Michael Zahniser <mzahniser@gmail.com>
+    Translation: Copyright Dok8tavo <vladicxo.pasxo@protonmail.ch>

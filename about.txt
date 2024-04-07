@@ -1,0 +1,2 @@
+Senlima chielo
+A plugin that translates the original content of endless-sky in Esperanto.
