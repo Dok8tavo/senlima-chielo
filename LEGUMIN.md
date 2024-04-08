@@ -1,23 +1,36 @@
-[In English](https://github.com/Dok8tavo/senlima-chielo/README.md)
+[In English](https://github.com/Dok8tavo/senlima-chielo/blob/main/README.md)
 
-# Senlima Chielo
+# Senlima-chielo
 
-"Senlima Chielo" estas aldono por la ludo [Endless-sky](https://endless-sky.github.io). Ĝi provizas esperante tradukita versio de la origina enhavo.
+"Senlima-chielo" estas aldono por la ludo [Endless-sky](https://endless-sky.github.io). Ĝi provizas esperante tradukita versio de la origina enhavo.
 
-## Kiel ludi je "Senlima Chielo"
+## Kiel ludi je Senlima-chielo
 
-1. Elŝutu la ludo [Endless-sky](https://endless-sky.github.io),
+1. Ekhavu la ludon [Endless-sky](https://endless-sky.github.io),
 2. Ŝaltu la ludon almenaŭ unufoje,
-3. Metu "Senlima Chielo" en la aldondosiero.
+3. Metu Senlima-chielo en la aldondosierujon.
 
-Poste, ĉiam kiam vi kreas novan piloton, vi elektu la komencon "Senlima Chielo" anstataŭ  "Endless-sky", por uzi la aldonon.
+La aldondosierujo troviĝu laŭ via operaciumo:
 
-## Kiel ekhavi "Endless-sky"
+- por Linukso aŭ:
+    - ĉe `/usr/share/games/endless-sky/plugins/`, ău
+    - ĉe `~/.local/share/endless-sky/plugins/`,
+- por Vindozo ău:
+    - ĉe `\plugins` en la sama dosiero kiel Endless-sky, aŭ
+    - ĉe `C:\Users\{your username}\AppData\Roaming\endless-sky\plugins\`,
+- por Makintoŝo aŭ:
+    - ĉe `Contents/Resources/plugins/` en la apujo, aŭ
+    - ĉe `~/Library/Application Support/endless-sky/plugins/`.
+
+La dosierujo kiu enhavu la "Senlima-chielo" aldono nomiĝas `plugins`.
+
+Poste, ĉiam kiam vi kreas novan piloton, vi elektu la komencon "Senlima-chielo" anstataŭ "Endless-sky", por uzi la aldonon.
+
+## Kiel ekhavi Endless-sky
 
 1. Iru al [tiu paĝo](https://github.com/endless-sky/endless-sky/releases/tag/0.10.6),
-2. Elŝutu la bonan version por via komputilo:
+2. Elŝutu la taŭgan version por via komputilo:
     - `Endless-Sky-v0.10.6.dmg` por Makintoŝo,
     - `Endless-Sky-win64-v0.10.6.zig` por Vindozo,
     - `Endless-Sky-v0.10.6-x86_64.AppImage` por Linukso,
-3. Malkompaktigu ĝin en la bonan dosierujon por via komputilo:
-    - `
+3. _FAROTA_
