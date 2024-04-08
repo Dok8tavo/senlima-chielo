@@ -30,7 +30,9 @@ After this, whenever you make a new pilot, you can select the intro "Senlima-chi
 
 You can get it on [steam](https://store.steampowered.com/app/404410/Endless_Sky/).
 
-You can get it from a package manager such as `apt` on Linux, or you can install it manually:
+You can get it from a package manager such as `apt` on Linux.
+
+Or you can install it manually:
 
 1. Go to [this page](https://github.com/endless-sky/endless-sky/releases/tag/0.10.6),
 2. Download the dedicated version for your operating system:
