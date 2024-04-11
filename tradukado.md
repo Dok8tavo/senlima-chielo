@@ -148,7 +148,7 @@
 	- [ ] [`rulei`](rulei/rulei.txt) 0 / ?
 	- [ ] [`rulei_outfits`](rulei/rulei_outfits.txt) 0 / ?
 	- [ ] [`rulei_ships`](rulei/rulei_ships.txt) 0 / ?
-- [ ] [`series`](series.txt) 0 / ?
+- [x] [`series`](series.txt) 0 / 0
 - [ ] `sheragi` 0 / ?
 	- [ ] [`archaeology_missions`](sheragi/archaeology_missions.txt) 0 / ?
 	- [ ] [`sheragi_outfits`](sheragi/sheragi_outfits.txt) 0 / ?
