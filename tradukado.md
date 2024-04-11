@@ -153,7 +153,7 @@
 	- [ ] [`archaeology_missions`](sheragi/archaeology_missions.txt) 0 / ?
 	- [ ] [`sheragi_outfits`](sheragi/sheragi_outfits.txt) 0 / ?
 	- [ ] [`sheragi_ships`](sheragi/sheragi_ships.txt) 0 / ?
-- [ ] [`stars`](stars.txt) 0 / ?
+- [x] [`stars`](stars.txt) 0 / 0
 - [ ] [`start`](start.txt) 1 / 9
 - [ ] `vyrmeid` 0 / ?
 	- [ ] [`vyrmeid`](vyrmeid/vyrmeid.txt) 0 / ?
