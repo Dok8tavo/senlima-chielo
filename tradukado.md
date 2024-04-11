@@ -179,25 +179,32 @@
 	- [ ] [`ratings`](_ui/ratings.txt) 0 / ?
 	- [ ] [`tooltips`](_ui/tooltips.txt) 0 / ?
 
-## Propraj kaj oftaj nomoj
+## Propraj nomoj
 
-- [ ] `propaj kaj oftaj nomoj` 1 / 38,
+- [ ] `propaj nomoj` 1 / 5,
+
+1. - [ ] `Dirt Belt => Kota Zono`,
+1. - [ ] `Earth => Hejmero`,
+1. - [x] `Endless-sky => Senlima chielo`,
+1. - [ ] `New Boston => Nova Bostono`,
+1. - [ ] `Ruticulus => ?`,
+
+## Oftaj nomoj
+
+- [ ] `oftaj nomoj` 5 / 33
 
 1. - [ ] `afterburners => ?`,
 1. - [ ] `atomic => ?`,
-1. - [ ] `author => aŭtoro`,
+1. - [x] `author => aŭtoro`,
 1. - [ ] `battery => ?`,
 1. - [ ] `beam => ?`,
 1. - [ ] `cannon => ?`,
 1. - [ ] `catalytic ramscoop => ?`,
 1. - [ ] `core => ?`,
-1. - [ ] `cooler => malvarmigilo`,
-1. - [ ] `credit => stelmono`,
-1. - [ ] `Dirt Belt => Kota Zono`,
+1. - [x] `cooler => malvarmigilo`,
+1. - [x] `credit => stelmono`,
 1. - [ ] `drive => ?`,
-1. - [ ] `Earth => Hejmero`,
 1. - [ ] `electron => ?`,
-1. - [x] `Endless-sky => Senlima chielo`,
 1. - [ ] `engine => ?`,
 1. - [ ] `fission reactor => ?`,
 1. - [ ] `fuel => ?`,
@@ -207,17 +214,15 @@
 1. - [ ] `jammer => ?`,
 1. - [ ] `license => ?`,
 1. - [ ] `missile => ?`,
-1. - [ ] `New Boston => Nova Bostono`,
 1. - [ ] `pack => ?`,
 1. - [ ] `pilote => ?`,
 1. - [ ] `plasma => ?`,
 1. - [ ] `pod => ?`,
 1. - [ ] `radar => ?`,
 1. - [ ] `regenerator => ?`,
-1. - [ ] `Ruticulus => ?`,
 1. - [ ] `scram => ?`,
-1. - [ ] `spaceport => kosmostacio`,
+1. - [x] `spaceport => kosmostacio`,
 1. - [ ] `steering => ?`,
 1. - [ ] `thruster => ?`,
 1. - [ ] `turret => ?`,
-1. - [ ] `warship => militshipo`,
+1. - [x] `warship => militshipo`,
