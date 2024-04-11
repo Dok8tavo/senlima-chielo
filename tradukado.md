@@ -120,7 +120,7 @@
 	- [ ] [`nanobots`](korath/nanobots.txt) 0 / ?
 - [ ] [`map_planets`](map_planets.txt) 0 / ?
 - [ ] [`map_systems`](map_systems.txt) 0 / ?
-- [ ] [`persons`](persons.txt) 0 / ?
+- [ ] [`persons`](persons.txt) 0 / 55
 - [ ] `pug` 0 / ?
 	- [ ] [`pug`](pug/pug.txt) 0 / ?
 	- [ ] [`pug_missions`](pug/pug_missions.txt) 0 / ?

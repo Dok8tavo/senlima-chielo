@@ -15,6 +15,7 @@ person "Michael Zahniser"
 	government "Author"
 	personality
 		plunders
+	# originala:
 	phrase
 		word
 			"I hope you're enjoying the game!"
@@ -122,6 +123,7 @@ person "Cap'n Pester"
 	frequency 300
 	personality
 		surveillance
+	# originala:
 	phrase
 		phrase
 			"friendly author"
@@ -152,6 +154,7 @@ person "Marauding Max"
 	frequency 400
 	personality
 		surveillance unconstrained harvests
+	# originala:
 	phrase
 		word
 			"Do you think you "
@@ -162,6 +165,7 @@ person "Marauding Max"
 			"MMK subphrase 2"
 		word
 			"all 28 Marauder models?"
+	# originala:
 	phrase
 		word
 			"Have you "
@@ -192,6 +196,7 @@ person "Marauding Max"
 			"recently?"
 			"in the past couple of days?"
 	# Not sure about implying there is a shop that people can have this done to their ships, but it's fun banter that encourages the player to explore...(there is no shop).
+	# originala:
 	phrase
 		word
 			"If you can find my crew, we'll help you turn that "
@@ -289,6 +294,7 @@ ship "Marauder Fury"
 	explode "tiny explosion" 10
 	explode "small explosion" 20
 	"final explode" "final explosion small"
+	# originala:
 	description "You're sure there's a Southbound Shipyards Fury under all the extra modifications. This ship appears to be one man's insane quest to make the most powerful single-pilot warship ever; after close inspection, you're inclined to believe he may have succeeded."
 
 
@@ -298,9 +304,11 @@ person "Captain Nate"
 	frequency 300
 	personality
 		vindictive heroic
+	# originala:
 	phrase
 		phrase
 			"friendly author"
+	# originala:
 	phrase
 		word
 			"Who is your daddy and what does he DO?"
@@ -317,7 +325,7 @@ person "Captain Nate"
 			"It's not a tumor!"
 			"There IS no bathroom!!!"
 			"You're a freakin' choirboy compared to me, a choirboy!!!!"
-	
+	# originala:
 	phrase
 		word
 			"Do you have a problem?"
@@ -339,7 +347,7 @@ person "Captain Nate"
 			"Ram them!"
 			"Ram them again!"
 			"Accelerate to Waaagh velocity!"
-	
+	# originala:
 	phrase
 		word
 			"When you need to make your point, stick to Pointedstick Communications Inc.!"
@@ -437,6 +445,7 @@ person "Tranquility"
 	frequency 100
 	personality
 		timid
+	# originala:
 	phrase
 		word
 			"They tell ya never to hit a man with a closed fist, but it is on occasion hilarious."
@@ -524,9 +533,11 @@ person "Power of the People"
 	frequency 200
 	personality
 		mining harvests opportunistic frugal unconstrained
+	# originala:
 	phrase
 		phrase
 			"friendly author"
+	# originala:
 	phrase
 		word
 			"Does it sound like I'm ordering a pizza?"
@@ -543,6 +554,7 @@ person "Power of the People"
 			"Sorry to interrupt just as it was getting interesting, but I'm afraid I've got to blow some bad guys into small pieces."
 			"If you think the other guy might have a blaster hidden under the table... bring two blasters."
 			"I'm a team player. As long as the rest of the team stays behind me."
+	# originala:
 	phrase
 		word
 			"Take it from me: "
@@ -568,6 +580,7 @@ person "Power of the People"
 			"The wiki is full of useful information."
 			"Be sure the beer is really free."
 			"Location, location, location."
+	# originala:
 	phrase
 		word
 			"When asked a tough question"
@@ -705,12 +718,15 @@ person "Local God"
 	frequency 200
 	personality
 		mining harvests surveillance unconstrained forbearing
+	# originala:
 	phrase
 		phrase
 			"friendly author"
+	# originala:
 	phrase
 		word
 			"Search for Ursa Polaris Station!"
+	# originala:
 	phrase
 		word
 			"Someday"
@@ -736,6 +752,7 @@ person "Local God"
 			"start dealing exotic outfits."
 			"sell outfits from everywhere."
 			"stock outfits from all over the place."
+	# originala:
 	phrase
 		word
 			"If only "
@@ -761,6 +778,7 @@ person "Local God"
 			"a place you could buy any outfit."
 			"somewhere you could optimize your ships, without cris-crossing the known galaxy."
 			"a space station out of asteroids - that carried all the outfits."
+	# originala:
 	phrase
 		word
 			"I "
@@ -899,6 +917,7 @@ person "Prototype B3-CC4"
 		forbearing mining unconstrained swarming
 	system
 		attributes "ember waste"
+	# oniginala:
 	phrase
 		word
 			"Long years of technological development were for me a pathway to many abilities some consider to be unnatural."
@@ -925,6 +944,7 @@ person "Prototype B3-CC4"
 			"I ate a black hole once. It took me a few years, but it was definitely worth it. Tastes like chicken."
 			"I am the only thing in the universe capable of beating the power of friendship."
 			"I want to tell you some words of a long gone past, which back then used to scare people of your race more than any weapon or war machine. These words are, 'The macOS workflow run was not successful.'"
+	# originala:
 	phrase
 		word
 			"What are you looking at?"
@@ -934,7 +954,7 @@ person "Prototype B3-CC4"
 		word
 			"I thought captains like you saw asteroids passing by every day."
 			"I'm just a normal minor planet trying its best to ignore the law of gravity."
-
+	# originala:
 	phrase # The ones below are EVN Krypt Pod references
 		word
 			"<"
@@ -948,12 +968,15 @@ person "Prototype B3-CC4"
 			"computer access"
 		word
 			">"
+	# originala:
 	phrase
 		word
 			"<Transmission disrupted at source>"
+	# originala:
 	phrase
 		word
 			"<Incoherent signal>"
+	# originala:
 	phrase
 		word
 			"<"
@@ -970,6 +993,7 @@ person "Prototype B3-CC4"
 			"transmission burst"
 		word
 			">"
+	# originala:
 	phrase
 		word
 			"<"
@@ -1039,7 +1063,9 @@ ship "Shooting Star"
 	explode "pug medium explosion" 25
 	explode "pug large explosion" 15
 	"final explode" "final explosion medium"
+	# originala:
 	description "This ship appears to be a hollowed-out asteroid filled with strange equipment. It is unclear what is creating the rays of light, but they must have something to do with how it moves without obvious engines."
+	# originala:
 	description "	Its advanced properties also allow it to reject the influence of enemy Command Centers, nullifying their effect."
 
 outfit "Crystal Projector"
@@ -1054,6 +1080,7 @@ outfit "Crystal Projector"
 	weapon
 		"hardpoint sprite" "hardpoint/shooting star flare/ss-rays"
 			"frame time" 3
+	# originala:
 	description "Never underestimate the power of a bunch of crystals on a rock. In this case all they do is project some harmless purple rays around the Shooting Star, but the point still stands."
 
 outfit "Floating Crystal"
@@ -1072,7 +1099,9 @@ outfit "Floating Crystal"
 		"reload" 4
 		"firing force" -93
 		"hit force" -81
+	# originala:
 	description "The real core of the Shooting Star, this floating crystal uses the effects of space-time to reduce the distance between a ship and its target. Legend has it this is no different from a thruster, but conventional engines don't bring your enemy closer."
+	# originala:
 	description "	It also takes up a spinal mount slot to be installed, although you aren't sure why."
 
 outfit "Crystalline Formation"
@@ -1094,6 +1123,7 @@ outfit "Crystalline Formation"
 		"reload" 1
 		"piercing" 1
 		"hull damage" 293
+	# originala:
 	description "There appear to have been several prior attempts to discern the mechanics of this outfit, but the debate is still ongoing whether this can be considered a device or not."
 
 outfit "Hexagonal Crystal"
@@ -1117,6 +1147,7 @@ outfit "Hexagonal Crystal"
 		"firing force" 2700
 		"hit force" 3500
 		"hull damage" 2160
+	# originala:
 	description "'Any sufficiently advanced technology is indistinguishable from magic,' Arthur C. Clarke said. This is sufficiently advanced technology."
 
 outfit "Tree Skeleton Key Stone"
@@ -1127,6 +1158,7 @@ outfit "Tree Skeleton Key Stone"
 	"outfit space" -1
 	"unique" 1
 	"quantum keystone" 1
+	# originala:
 	description "Although in appearance it may look somewhat similar to a tree, you don't know how it is supposed to resemble a skeleton. You aren't sure you want to find out either."
 
 
@@ -1136,9 +1168,11 @@ person "Rais Iris XVIII"
 	frequency 200
 	personality
 		disables heroic plunders opportunistic
+	# originala:
 	phrase
 		phrase
 			"friendly author"
+	# originala:
 	phrase
 		word
 			"Remember, overkill is underrated."
@@ -1195,7 +1229,7 @@ person "Rais Iris XVIII"
 			"Did you ever hear the tragedy of Darth Plagueis the wise?"
 			"Congratulations, you are being rescued. Please do not resist."
 			"I'll be there for you. Cassian said I had to."
-
+	# originala:
 	phrase
 		word
 			"We all serve "
@@ -1280,6 +1314,7 @@ person "Zitchas"
 		mining harvests unconstrained opportunistic
 	system
 		attributes "ember waste"
+	# originala:
 	phrase
 		word
 			"May the Embers burn bright for you."
@@ -1298,6 +1333,7 @@ person "Zitchas"
 			"Look good, don't they? You can thank Becca and Brick for that."
 			"Education cannot cure fear, intolerance, or incompetence. But it does give a bonus to resisting them."
 			"Why ever would a creator want to raise sheep? Much better to raise new creators."
+	# originala:
 	phrase
 		word
 			"If you ever need something to do: "
@@ -1321,6 +1357,7 @@ person "Zitchas"
 			"review, review, review!"
 			"have I mentioned that details about what you do or don't like are helpful?"
 			"have I mentioned that reviews are very helpful?"
+	# originala:
 	phrase
 		word
 			"A piece of advice: "
@@ -1406,6 +1443,7 @@ person "Brick"
 	frequency 300
 	personality
 		mining harvests plunders
+	# originala:
 	phrase
 		word
 			"If sticks and stones break bones, then bricks should work wonders."
@@ -1501,8 +1539,9 @@ ship "Modified Boxwing"
 	leak "flame" 50 80
 	explode "tiny explosion" 15
 	explode "small explosion" 5
-	# 
+	# originala:
 	description `No matter how maligned, every ship has someone out there that loves it.`
+	# originala:
 	description `Surprisingly, someone invested a lot of time, money, and effort into transforming this humble boxwing from a flying coffin into a palatial sarcophagus. It is still terribly cramped, but at least it is luxurious and shiny!`
 
 
@@ -1512,7 +1551,7 @@ person "Gefullte Taubenbrust"
 	frequency 200
 	personality
 		heroic plunders opportunistic
-	# 
+	# originala:
 	phrase
 		word
 			"The whole room is spinning."
@@ -1606,7 +1645,7 @@ ship "Modified Battleship"
 	explode "large explosion" 40
 	explode "huge explosion" 10
 	"final explode" "final explosion large"
-	# 
+	# originala:
 	description `Never underestimate how far an individual is willing to go to modify their favorite spacecraft - sometimes before it even exists.`
 
 outfit "Prototype Fusion Cannon"
@@ -1647,7 +1686,7 @@ outfit "Prototype Fusion Cannon"
 		"disruption damage" 5
 		"hit force" 100
 		"missile strength" 10
-	# 
+	# originala:
 	description "This is a personally obtained prototype Fusion Cannon, a deadly, massive spinal weapon. Where it came from, nobody knows except the owner, and those who wish to ask are too afraid of being on the receiving end."
 	
 effect "fusion cannon fire"
@@ -1740,7 +1779,7 @@ person "MasterOfGrey"
 		heroic plunders opportunistic
 	system
 		government "Hai"
-	# 
+	# originala:
 	phrase
 		word
 			"Oh dear."
@@ -1859,7 +1898,7 @@ ship "Modified Ladybug"
 	explode "large explosion" 40
 	explode "huge explosion" 10
 	"final explode" "final explosion large"
-	# 
+	# originala:
 	description `This is an old war-torn Hai Ladybug with numerous modifications done on the hull. Apart from the additional turret mounts, the main adjustments on the vessel are three huge engine cells - two in the back replacing the old engine pods, and one in the front replacing the gun mounts. These push the Modified Ladybug to speeds only an insane captain would enjoy.`
 
 
@@ -1869,10 +1908,10 @@ person "Patrol Team"
 	frequency 300
 	personality
 		mining harvests plunders
-	# 
+	# originala:
 	phrase
 		word
-#		Marksman
+			# Marksman
 			"If you're interested in helping out but don't have time, consider being a proofreader! You can take my job, and I get to laze around doing nothing!"
 			"The number of times someone breaks the fourth wall, it's mind-boggling!"
 			"Look, we aren't here for your money. We do all this for free and look where that gets us."
@@ -1917,6 +1956,7 @@ person "Patrol Team"
 			"Code non-functional. Destroy them."
 
 #		EjoThims
+	# originala:
 	phrase
 		word
 			"If you want your pull request not to be merged"
@@ -1941,7 +1981,7 @@ person "Patrol Team"
 			"."
 			". Trust me! It works."
 			". You shouldn't do those things, though! I'm just kidding."
-
+	# originala:
 	phrase
 		word
 			"You don't have to be a Reviewer to review pull requests"
@@ -2037,13 +2077,15 @@ ship "Waverider"
 	gun 22.5 -56.5 "Particle Cannon"
 	gun -31.5 -7 "Particle Cannon"
 	gun 31.5 -7 "Particle Cannon"
-	# 
+	# originala:
 	description `The Waverider was a ship that was first requested and never used for five years, seven months and twenty-seven days.`
+	# originala:
 	description `	Its disappointment was so immense, it willed itself into being.`
 
 outfit "Emotional Baggage"
 	category "Unique"
 	thumbnail "outfit/unknown"
-	# 
+	# originala:
 	description `The physical embodiment of everything that makes the Reviewers who they are today.`
+	# originala:
 	description `	Unfortunately, it's not for sale.`
