@@ -6,7 +6,7 @@
 
 ## How to play Senlima-chielo
 
-1. Get the game [Endless-sky](https://github.com/Dok8tavo/senlima-chielo/blob/main/README.md#l29),
+1. Get the game [Endless-sky](https://github.com/Dok8tavo/senlima-chielo/blob/main/README.md#how-to-get-endless-sky),
 2. Start the game at least once,
 3. Download Senlima-chielo into your plugin directory.
 
@@ -32,9 +32,15 @@ You can get it on [steam](https://store.steampowered.com/app/404410/Endless_Sky/
 
 You can get it from a package manager such as `apt` on Linux.
 
-Or you can install it [manually](https://github.com/endless-sky/endless-sky/releases/tag/0.10.6):
+Or you can install it [manually](https://github.com/endless-sky/endless-sky/releases/tag/v0.10.6):
 
-## Translation
+## How to contribute
+
+If your familiar with git and github, you can fork this repository and make a pull request with your changes.
+
+If not, you can offer your translations in [the discord group](https://discord.gg/EwAKV6Yme4).
+
+### Translation
 
 There are three types of translation units:
 
@@ -42,7 +48,7 @@ There are three types of translation units:
 - proper nouns,
 - common nouns,
 
-### Paragraphs
+#### Paragraphs
 
 Paragraphs are just paragraphs of text. They can be the description of a planet or a mission, a part of a dialog, etc. Each paragraph is a separate translation unit. They can be:
 
@@ -52,17 +58,17 @@ Paragraphs are just paragraphs of text. They can be the description of a planet 
 - `conversation` paragraphs,
 
 
-### Proper nouns
+#### Proper nouns
 
 Proper nouns usually have a meaning for the code, they're not just text. For example the name of a fleet, a ship, a planet, a government, a system, or a mission, etc. As the code use them to designate actual content, changing one instance of a proper noun without updating the others will break the code.
 
 That's why all the instance of a proper noun are part of only one translation unit. They all must be changed at once. That's why you should `grep -Rinw "data/" -e thepropernoun`, sure that every instance of it is commented out and is followed by its proper translation, before submitting making your commit.
 
-### Common nouns
+#### Common nouns
 
 Common nouns don't have any meaning for the code, but they're not just text. They have multiple instances throughout the content, but changing one without the others doesn't break the code. They're basically only a convention that must be followed when translating paragraphs and eventually proper nouns.
 
-### Examples
+#### Examples
 
 ```endless-sky
 # "Esperantujo" is a proper noun
@@ -88,9 +94,3 @@ person "Tradukisto"
     phrase
         `Mi estas tradukisto por Senlima-chielo!`
 ```
-
-## How to contribute
-
-If your familiar with git and github, you can fork this repository and make a pull request with your changes.
-
-If not, you can offer your translations in [the discord group](https://discord.gg/EwAKV6Yme4).

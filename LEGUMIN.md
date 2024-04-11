@@ -2,11 +2,11 @@
 
 # Senlima-chielo
 
-"Senlima-chielo" estas aldono por la ludo [Endless-sky](https://endless-sky.github.io). Ĝi provizas esperante tradukita versio de la originala enhavo.
+"Senlima-chielo" estas aldono por la ludo [Endless-sky](https://endless-sky.github.io). Ĝi provizas esperante tradukitan version de la originala enhavo.
 
 ## Kiel ludi je Senlima-chielo
 
-1. Ekhavu la ludon [Endless-sky](https://github.com/Dok8tavo/senlima-chielo/blob/main/LEGUMIN.md#l29),
+1. Ekhavu la ludon [Endless-sky](https://github.com/Dok8tavo/senlima-chielo/blob/main/LEGUMIN.md#kiel-ekhavi-endless-sky),
 2. Ŝaltu la ludon almenaŭ unufoje,
 3. Metu Senlima-chielo en la aldondosierujon.
 
@@ -32,18 +32,23 @@ Vi povas preni ĝin per [steam](https://store.steampowered.com/app/404410/Endles
 
 Vi povas preni ĝin per "package manager" kiel `apt` ĉe Linukso.
 
-Aŭ vi povas preni ĝin [per vi mem](https://github.com/endless-sky/endless-sky/releases/tag/0.10.6).
+Aŭ vi povas preni ĝin [per vi mem](https://github.com/endless-sky/endless-sky/releases/tag/v0.10.6).
 
-## Traduko
+## Kiel kunlabori
 
-There are three types of translation units:
+Se vi konas la funkcion de "git" kaj "github" vi povas _forki_ ĉi tiun deponejon kaj peti altiron kun viaj ŝanĝoj.
+
+Alie vi povas proponi viajn tradukojn de [la diskorda grupo](https://discord.gg/EwAKV6Yme4).
+
+### Tradukado
+
 Estas tri tipoj de tradukero.
 
 - paragrafoj,
 - propraj nomoj,
 - oftaj nomoj.
 
-### Paragrafoj
+#### Paragrafoj
 
 Paragrafoj simple estas tekstopartoj. Ili povas esti priskribo de planedo, de misio, parto de dialogo, ktp. Ĉiu paragrafo estas aparta tradukero. Ili povas esti:
 
@@ -52,17 +57,17 @@ Paragrafoj simple estas tekstopartoj. Ili povas esti priskribo de planedo, de mi
 - radikaj `phrase` (frazaj) blokoj,
 - `conversation` (interparolaj) paragrafoj,
 
-### Propraj nomoj
+#### Propraj nomoj
 
 Propraj nomoj kutime havas sencon kode, ili ne estas simplaj tekstoj. Ekzemple, namo de ŝiparo, ŝipo, planedo, popolo, sistemo, aŭ misio, ktp. Pro tio ke proprajn nomojn la kodo uzas por dezigni enhavon, ŝanĝi unu okazon de propra nomo dum ne ŝanĝi la aliaj kaŭzas problemojn al la kodon.
 
 Tial ĉiuj okazoj de propra nomo estas parto de la sama tradukero. Ili ĉiuj estu ŝanĝata samtempe. Tial oni faru `grep -Rinw "data/" -e propranomo`, por certiĝi ke ĉiu okazo estu forkomentita kaj sekvita de ĝia traduko.
 
-### Komunaj nomoj
+#### Komunaj nomoj
 
 Komunaj nomoj ne havas sencon kode, sed ili ne estas simple teksto. Estas multaj okazoj da ili en la enhavo, sed ŝanĝi nur unu ne kaŭzas problemojn al la kodon. Ili nur estas konsento kiun oni sekvu kiam oni tradukas paragrafojn.
 
-### Ekzemploj
+#### Ekzemploj
 
 ```endless-sky
 # "Esperantujo" estas propra nomo
@@ -88,10 +93,4 @@ person "Tradukisto"
     phrase
         `Mi estas tradukisto por Senlima-chielo!`
 ```
-
-## Kiel kunlabori
-
-Se vi konas la funkcion de "git" kaj "github" vi povas _forki_ ĉi tiun deponejon kaj peti altiron kun viaj ŝanĝoj.
-
-Alie vi povas proponi viajn tradukojn de [la diskorda grupo](https://discord.gg/EwAKV6Yme4).
 
