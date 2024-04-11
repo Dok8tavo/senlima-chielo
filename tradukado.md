@@ -154,7 +154,7 @@
 	- [ ] [`sheragi_outfits`](sheragi/sheragi_outfits.txt) 0 / ?
 	- [ ] [`sheragi_ships`](sheragi/sheragi_ships.txt) 0 / ?
 - [ ] [`stars`](stars.txt) 0 / ?
-- [ ] [`start`](start.txt) 0 / ?
+- [ ] [`start`](start.txt) 1 / 9
 - [ ] `vyrmeid` 0 / ?
 	- [ ] [`vyrmeid`](vyrmeid/vyrmeid.txt) 0 / ?
 - [ ] `wanderer` 0 / ?
@@ -181,7 +181,7 @@
 
 ## Propraj kaj oftaj nomoj
 
-- [ ] `propaj kaj oftaj nomoj` 0 / 11,
+- [ ] `propaj kaj oftaj nomoj` 1 / 38,
 
 1. - [ ] `afterburners => ?`,
 1. - [ ] `atomic => ?`,
@@ -197,7 +197,7 @@
 1. - [ ] `drive => ?`,
 1. - [ ] `Earth => Hejmero`,
 1. - [ ] `electron => ?`,
-1. - [ ] `Endless-sky => Senlima chielo`,
+1. - [x] `Endless-sky => Senlima chielo`,
 1. - [ ] `engine => ?`,
 1. - [ ] `fission reactor => ?`,
 1. - [ ] `fuel => ?`,
