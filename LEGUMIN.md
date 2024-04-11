@@ -89,3 +89,9 @@ person "Tradukisto"
         `Mi estas tradukisto por Senlima-chielo!`
 ```
 
+## Kiel kunlabori
+
+Se vi konas la funkcion de "git" kaj "github" vi povas _forki_ ĉi tiun deponejon kaj peti altiron kun viaj ŝanĝoj.
+
+Alie vi povas proponi viajn tradukojn de [la diskorda grupo](https://discord.gg/EwAKV6Yme4).
+

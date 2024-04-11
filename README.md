@@ -89,3 +89,8 @@ person "Tradukisto"
         `Mi estas tradukisto por Senlima-chielo!`
 ```
 
+## How to contribute
+
+If your familiar with git and github, you can fork this repository and make a pull request with your changes.
+
+If not, you can offer your translations in [the discord group](https://discord.gg/EwAKV6Yme4).
