@@ -67,7 +67,7 @@
 	- [ ] [`deep_jobs`](human/deep_jobs.txt) 0 / ?
 	- [ ] [`deep_missions`](human/deep_missions.txt) 0 / ?
 	- [ ] [`dirt_belt_jobs`](human/dirt_belt_jobs.txt) 0 / ?
-	- [ ] [`engines`](human/engines.txt) 0 / ?
+	- [ ] [`engines`](human/engines.txt) 0 / 60
 	- [ ] [`far_north_jobs`](human/far_north_jobs.txt) 0 / ?
 	- [ ] [`fleets`](human/fleets.txt) 0 / ?
 	- [ ] [`free_worlds_side_plots`](human/free_worlds_side_plots.txt) 0 / ?

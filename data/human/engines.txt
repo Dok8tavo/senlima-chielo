@@ -24,6 +24,7 @@ outfit "Volcano Afterburner"
 	"afterburner fuel" .125
 	"afterburner heat" 10.0
 	"afterburner effect" "afterburner"
+	# originala:
 	description "An afterburner works by dumping hyperspace fuel into your engines and igniting it, producing a large amount of thrust. This can be very useful for dodging missiles or briefly escaping from faster opponents, but you must be careful to avoid using up so much fuel that you do not have enough left for hyperspace travel."
 
 effect "afterburner"
@@ -50,6 +51,7 @@ outfit "Caldera Afterburner"
 	"afterburner fuel" .5
 	"afterburner heat" 42.0
 	"afterburner effect" "caldera afterburner" 5
+	# originala:
 	description "The Caldera Afterburner is designed for heavy warships, allowing otherwise slow ships to gain a burst of speed to catch up to a faster target or flee from the heat of battle."
 
 effect "caldera afterburner"
@@ -78,6 +80,7 @@ outfit "Ionic Afterburner"
 	"afterburner energy" 5.1
 	"afterburner heat" 4.0
 	"afterburner effect" "ionic afterburner"
+	# originala:
 	description "The Ionic Afterburner was designed by the Syndicate to compensate for the primary weakness of an ordinary afterburner: namely, that it consumes hyperspace fuel at a prodigious rate. Ionic afterburners instead use a small amount of fuel combined with a large burst of energy from your ship's batteries to achieve the same effect."
 
 effect "ionic afterburner"
@@ -115,6 +118,7 @@ outfit "X1050 Ion Engines"
 	"steering flare sprite" "effect/ion flare/tiny"
 		"frame rate" 1.2
 	"steering flare sound" "ion tiny"
+	# originala:
 	description `When designing the Barb, the Syndicate took the opportunity to integrate their smallest thruster models to create a more compact steering and thrusting engine. The result is not very useful on anything but a fighter, and is only "adequate" in that role. Still, if engine space is at a premium, this is the smallest set of engines that will still get you there (eventually).`
 
 
@@ -134,7 +138,9 @@ outfit "X1700 Ion Thruster"
 	"flare sprite" "effect/ion flare/tiny"
 		"frame rate" 1.2
 	"flare sound" "ion tiny"
+	# originala:
 	description "This is the smallest thruster that you can buy, so weak that anything larger than a drone will accelerate quite slowly when using this engine. On the other hand, it is also very energy-efficient."
+	# originala:
 	description "	Ion engines consume less energy than plasma engines and produce less heat, but they also take up more space for the same amount of thrust."
 
 outfit "X2700 Ion Thruster"
@@ -152,7 +158,9 @@ outfit "X2700 Ion Thruster"
 	"flare sprite" "effect/ion flare/small"
 		"frame rate" 1.1
 	"flare sound" "ion small"
+	# originala:
 	description "The X2700 Ion Thruster is intended mostly for use in small, single-person or two-person ships, as well as in fighters. It is also used in larger ships, such as freighters, that have very little space for propulsion systems or energy to drive them. But these larger ships move unbearably slowly as a result."
+	# originala:
 	description "	Ion engines consume less energy than plasma engines and produce less heat, but they also take up more space for the same amount of thrust."
 
 outfit "X3700 Ion Thruster"
@@ -170,7 +178,9 @@ outfit "X3700 Ion Thruster"
 	"flare sprite" "effect/ion flare/medium"
 		"frame rate" 1.0
 	"flare sound" "ion medium"
+	# originala:
 	description "The X3700 Ion Thruster is designed for heavy freighters and small capital ships. In theory, it could be installed in smaller ships too, if they have enough engine space, to attain almost ridiculous speeds."
+	# originala:
 	description "	Ion engines consume less energy than plasma engines and produce less heat, but they also take up more space for the same amount of thrust."
 
 outfit "X4700 Ion Thruster"
@@ -188,7 +198,9 @@ outfit "X4700 Ion Thruster"
 	"flare sprite" "effect/ion flare/large"
 		"frame rate" 0.9
 	"flare sound" "ion large"
+	# originala:
 	description "The X4700 Ion Thruster was developed when the Republic Navy began building warships so large that the X3700 was not sufficient for them. It allows even a capital ship to move at a respectable speed."
+	# originala:
 	description "	Ion engines consume less energy than plasma engines and produce less heat, but they also take up more space for the same amount of thrust."
 
 outfit "X5700 Ion Thruster"
@@ -206,7 +218,9 @@ outfit "X5700 Ion Thruster"
 	"flare sprite" "effect/ion flare/huge"
 		"frame rate" 0.8
 	"flare sound" "ion huge"
+	# originala:
 	description "The X5700 thruster is intended for only the largest of capital ships. When the Syndicate first began producing them, these engines were considered little more than a publicity stunt, because no ship at the time was large enough to hold one."
+	# originala:
 	description "	Ion engines consume less energy than plasma engines and produce less heat, but they also take up more space for the same amount of thrust."
 
 
@@ -225,7 +239,9 @@ outfit "X1200 Ion Steering"
 	"steering flare sprite" "effect/ion flare/tiny"
 		"frame rate" 1.2
 	"steering flare sound" "ion tiny"
+	# originala:
 	description "This is the smallest set of steering thrusters that you can buy, generally considered suitable only for tiny, pilotless drones. Occasionally pilots looking for some extra outfit space will try swapping out their larger steering systems for one of these, but the results are invariably disappointing."
+	# originala:
 	description "	Ion engines consume less energy than plasma engines and produce less heat, but they also take up more space for the same amount of thrust."
 
 outfit "X2200 Ion Steering"
@@ -243,7 +259,9 @@ outfit "X2200 Ion Steering"
 	"steering flare sprite" "effect/ion flare/small"
 		"frame rate" 1.1
 	"steering flare sound" "ion small"
+	# originala:
 	description "The X2200 steering system is designed for fighters and other small spacecraft, as well as for use in larger ships when maneuverability is not needed."
+	# originala:
 	description "	Ion engines consume less energy than plasma engines and produce less heat, but they also take up more space for the same amount of thrust."
 
 outfit "X3200 Ion Steering"
@@ -261,7 +279,9 @@ outfit "X3200 Ion Steering"
 	"steering flare sprite" "effect/ion flare/medium"
 		"frame rate" 1.0
 	"steering flare sound" "ion medium"
+	# originala:
 	description "The X3200 steering system is intended for small warships and freighters. It produces enough turning force to lend agility to all but the largest of human ships, and it is considerably more energy-efficient than the plasma-drive alternatives."
+	# originala:
 	description "	Ion engines consume less energy than plasma engines and produce less heat, but they also take up more space for the same amount of thrust."
 
 outfit "X4200 Ion Steering"
@@ -279,7 +299,9 @@ outfit "X4200 Ion Steering"
 	"steering flare sprite" "effect/ion flare/large"
 		"frame rate" 0.9
 	"steering flare sound" "ion large"
+	# originala:
 	description "The X4200 is a powerful steering system, designed mostly for warships because quick steering is seldom a requirement in freighter design."
+	# originala:
 	description "	Ion engines consume less energy than plasma engines and produce less heat, but they also take up more space for the same amount of thrust."
 
 outfit "X5200 Ion Steering"
@@ -297,7 +319,9 @@ outfit "X5200 Ion Steering"
 	"steering flare sprite" "effect/ion flare/huge"
 		"frame rate" 0.8
 	"steering flare sound" "ion huge"
+	# originala:
 	description "The X5200 is a steering system so large and powerful that only a handful of ships can install it. Due to its limited market, it is produced in small numbers."
+	# originala:
 	description "	Ion engines consume less energy than plasma engines and produce less heat, but they also take up more space for the same amount of thrust."
 
 
@@ -316,7 +340,9 @@ outfit "X1100 Ion Reverse Thruster"
 	"reverse flare sprite" "effect/ion flare/tiny"
 		"frame rate" 1.2
 	"reverse flare sound" "ion tiny"
+	# originala:
 	description "Traditionally, ships turn around so that they can use their main thrusters for deceleration. Some ships, however, are too ungainly for such maneuvers to be convenient, or carry sensitive cargo that must not be being swung around quickly. For such ships, a reverse thruster allows them to apply thrust smoothly backwards."
+	# originala:
 	description "	Because a reverse thruster must be facing forwards, it must be installed in the weapon section of your ship instead of the engine section."
 
 
@@ -336,7 +362,9 @@ outfit "Chipmunk Plasma Thruster"
 	"flare sprite" "effect/plasma flare/tiny"
 		"frame rate" 5
 	"flare sound" "plasma tiny"
+	# originala:
 	description "This is the smallest of the plasma propulsion systems produced by Delta V Corporation, suitable for very light fighters and interceptors."
+	# originala:
 	description "	Plasma engines are a bit more powerful than ion engines of the same size, but they are less energy efficient and produce more heat."
 
 outfit "Greyhound Plasma Thruster"
@@ -354,7 +382,9 @@ outfit "Greyhound Plasma Thruster"
 	"flare sprite" "effect/plasma flare/small"
 		"frame rate" 6
 	"flare sound" "plasma small"
+	# originala:
 	description "This thruster is intended for small ships and for freighters. It comes in a crate decorated with a stylized cartoon of a running greyhound."
+	# originala:
 	description "	Plasma engines are a bit more powerful than ion engines of the same size, but they are less energy efficient and produce more heat."
 
 outfit "Impala Plasma Thruster"
@@ -372,7 +402,9 @@ outfit "Impala Plasma Thruster"
 	"flare sprite" "effect/plasma flare/medium"
 		"frame rate" 7
 	"flare sound" "plasma medium"
+	# originala:
 	description "Impala class thrusters produce a significant amount of force, and are suitable for smaller capital ships. But, your ship may need extra cooling systems in order to handle them."
+	# originala:
 	description "	Plasma engines are a bit more powerful than ion engines of the same size, but they are less energy efficient and produce more heat."
 
 outfit "Orca Plasma Thruster"
@@ -390,7 +422,9 @@ outfit "Orca Plasma Thruster"
 	"flare sprite" "effect/plasma flare/large"
 		"frame rate" 8
 	"flare sound" "plasma large"
+	# originala:
 	description "This engine draws enough power that a ship with anything short of a full-fledged nuclear reactor is unlikely to be able to use it, but the thrust it generates is impressive."
+	# originala:
 	description "	Plasma engines are a bit more powerful than ion engines of the same size, but they are less energy efficient and produce more heat."
 
 outfit "Tyrant Plasma Thruster"
@@ -408,7 +442,9 @@ outfit "Tyrant Plasma Thruster"
 	"flare sprite" "effect/plasma flare/huge"
 		"frame rate" 9
 	"flare sound" "plasma huge"
+	# originala:
 	description "The enormous crate that this thruster is sold in comes decorated with a picture of a grinning Tyrannosaurus Rex with an improbable number of teeth. Only a handful of ships are large enough to require an engine of this size... or to have the capacity for one."
+	# originala:
 	description "	Plasma engines are a bit more powerful than ion engines of the same size, but they are less energy efficient and produce more heat."
 
 
@@ -427,7 +463,9 @@ outfit "Chipmunk Plasma Steering"
 	"steering flare sprite" "effect/plasma flare/tiny"
 		"frame rate" 5
 	"steering flare sound" "plasma tiny"
+	# originala:
 	description "This is the smallest plasma steering system that Delta V produces. The packaging features a cartoon of what appears to be a very highly caffeinated rodent."
+	# originala:
 	description "	Plasma engines are a bit more powerful than ion engines of the same size, but they are less energy efficient and produce more heat."
 
 outfit "Greyhound Plasma Steering"
@@ -445,7 +483,9 @@ outfit "Greyhound Plasma Steering"
 	"steering flare sprite" "effect/plasma flare/small"
 		"frame rate" 6
 	"steering flare sound" "plasma small"
+	# originala:
 	description "The Greyhound class plasma propulsion systems are Delta V's most popular product, suitable for a wide range of small starships."
+	# originala:
 	description "	Plasma engines are a bit more powerful than ion engines of the same size, but they are less energy efficient and produce more heat."
 
 outfit "Impala Plasma Steering"
@@ -463,7 +503,9 @@ outfit "Impala Plasma Steering"
 	"steering flare sprite" "effect/plasma flare/medium"
 		"frame rate" 7
 	"steering flare sound" "plasma medium"
+	# originala:
 	description "Impala class plasma steering systems are suitable for most freighters and all but the largest warships, and are also considerably more compact than the ion propulsion systems produced by the Syndicate."
+	# originala:
 	description "	Plasma engines are a bit more powerful than ion engines of the same size, but they are less energy efficient and produce more heat."
 
 outfit "Orca Plasma Steering"
@@ -481,7 +523,9 @@ outfit "Orca Plasma Steering"
 	"steering flare sprite" "effect/plasma flare/large"
 		"frame rate" 8
 	"steering flare sound" "plasma large"
+	# originala:
 	description "An Orca class steering system will allow any mid-sized ship to turn as quickly as a fighter, and is powerful enough to serve even the largest of warships."
+	# originala:
 	description "	Plasma engines are a bit more powerful than ion engines of the same size, but they are less energy efficient and produce more heat."
 
 outfit "Tyrant Plasma Steering"
@@ -499,7 +543,9 @@ outfit "Tyrant Plasma Steering"
 	"steering flare sprite" "effect/plasma flare/huge"
 		"frame rate" 9
 	"steering flare sound" "plasma huge"
+	# originala:
 	description "As with the corresponding thruster, the Tyrant class steering system is so large and powerful that very few ships can make use of it."
+	# originala:
 	description "	Plasma engines are a bit more powerful than ion engines of the same size, but they are less energy efficient and produce more heat."
 
 
@@ -518,7 +564,9 @@ outfit "Capybara Reverse Thruster"
 	"reverse flare sprite" "effect/plasma flare/tiny"
 		"frame rate" 5
 	"reverse flare sound" "plasma tiny"
+	# originala:
 	description "Large ships often lack the maneuverability to perform the 180 degree turns needed to come to a stop on short notice. For such massive vessels, a reverse thruster allows them to accelerate smoothly backwards, without needing to turn around."
+	# originala:
 	description "	Because a reverse thruster must be facing forwards, it must be installed in the weapon section of your ship instead of the engine section."
 
 
@@ -538,6 +586,7 @@ outfit "A120 Atomic Thruster"
 	"flare sprite" "effect/atomic flare/tiny"
 		"frame rate" 14
 	"flare sound" "atomic tiny"
+	# originala:
 	description "If you're looking for the most powerful engine that will fit into your ship, and have plenty of money to burn, Deep Sky's atomic thrusters are your answer. Of course, the extra energy and cooling they require can easily offset the benefit of their small size."
 
 outfit "A250 Atomic Thruster"
@@ -555,6 +604,7 @@ outfit "A250 Atomic Thruster"
 	"flare sprite" "effect/atomic flare/small"
 		"frame rate" 13
 	"flare sound" "atomic small"
+	# originala:
 	description "Deep Sky's atomic thrusters have been in production for centuries, but remain a niche product due to their high prices and high energy requirements."
 
 outfit "A370 Atomic Thruster"
@@ -572,6 +622,7 @@ outfit "A370 Atomic Thruster"
 	"flare sprite" "effect/atomic flare/medium"
 		"frame rate" 12
 	"flare sound" "atomic medium"
+	# originala:
 	description "This thruster is small enough to fit in a light warship or freighter, but powerful enough to move any but the largest of ships. Naturally, such performance comes at an exorbitant price."
 
 outfit "A520 Atomic Thruster"
@@ -589,6 +640,7 @@ outfit "A520 Atomic Thruster"
 	"flare sprite" "effect/atomic flare/large"
 		"frame rate" 11
 	"flare sound" "atomic large"
+	# originala:
 	description "If your ship is sporting a set of Deep Sky's atomic engines, you will be the envy of every pilot in the galaxy. No other form of propulsion that humanity has discovered produces so much thrust from such a small engine."
 
 outfit "A860 Atomic Thruster"
@@ -606,6 +658,7 @@ outfit "A860 Atomic Thruster"
 	"flare sprite" "effect/atomic flare/huge"
 		"frame rate" 10
 	"flare sound" "atomic huge"
+	# originala:
 	description "The A860 Atomic Thruster is the most powerful engine sold in human space, and is much more compact than any of the alternatives. But, you may need to upgrade your ship's power and cooling systems to handle it."
 
 
@@ -624,6 +677,7 @@ outfit "A125 Atomic Steering"
 	"steering flare sprite" "effect/atomic flare/tiny"
 		"frame rate" 14
 	"steering flare sound" "atomic tiny"
+	# originala:
 	description "Deep Sky's atomic thrusters are a popular choice for high-end starships. It is not uncommon for a set of atomic engines to cost more than the ship they are installed in."
 
 outfit "A255 Atomic Steering"
@@ -641,6 +695,7 @@ outfit "A255 Atomic Steering"
 	"steering flare sprite" "effect/atomic flare/small"
 		"frame rate" 13
 	"steering flare sound" "atomic small"
+	# originala:
 	description "If you have exhausted all your other options for making your ship more maneuverable, it may be time to invest in a set of atomic engines."
 
 outfit "A375 Atomic Steering"
@@ -658,6 +713,7 @@ outfit "A375 Atomic Steering"
 	"steering flare sprite" "effect/atomic flare/medium"
 		"frame rate" 12
 	"steering flare sound" "atomic medium"
+	# originala:
 	description "Bounty hunters and other captains who need to gain a speed advantage over the ships they are pursuing often dream of being able to save up enough money for a set of atomic engines."
 
 outfit "A525 Atomic Steering"
@@ -675,6 +731,7 @@ outfit "A525 Atomic Steering"
 	"steering flare sprite" "effect/atomic flare/large"
 		"frame rate" 11
 	"steering flare sound" "atomic large"
+	# originala:
 	description "This set of maneuvering thrusters from Deep Sky will allow small warships to turn as fast as a fighter. For larger ships, swapping the existing engines with a set of atomics can free up a considerable amount of space for other outfits or weapons."
 
 outfit "A865 Atomic Steering"
@@ -692,6 +749,7 @@ outfit "A865 Atomic Steering"
 	"steering flare sprite" "effect/atomic flare/huge"
 		"frame rate" 10
 	"steering flare sound" "atomic huge"
+	# originala:
 	description "Atomic engines are considered by many to be Deep Sky's crowning achievement. Although they are so expensive that relatively few of them are in use, there are few captains who do not dream of one day installing a set of them."
 
 
@@ -710,5 +768,7 @@ outfit "AR120 Reverse Thruster"
 	"reverse flare sprite" "effect/atomic flare/tiny"
 		"frame rate" 14
 	"reverse flare sound" "atomic tiny"
+	# originala:
 	description "For pilots who want to pull fancy tricks that most are not capable of duplicating, a reverse thruster allows a ship to accelerate backwards, without needing to turn around."
+	# originala:
 	description "	Because a reverse thruster must be facing forwards, it must be installed in the weapon section of your ship instead of the engine section."
