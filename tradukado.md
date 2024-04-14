@@ -100,8 +100,8 @@
 	- [ ] [`syndicate_jobs`](human/syndicate_jobs.txt) 0 / ?
 	- [ ] [`variants`](human/variants.txt) 0 / ?
 	- [ ] [`weapons`](human/weapons.txt) 0 / 69
-- [ ] `iije` 0 / ?
-	- [ ] [`iije`](iije/iije.txt) 0 / ?
+- [ ] `iije` 0 / 2
+	- [ ] [`iije`](iije/iije.txt) 0 / 2
 - [ ] `kahet` 0 / ?
 	- [ ] [`kahet`](kahet/kahet.txt) 0 / ?
 	- [ ] [`kahet_outfits`](kahet/kahet_outfits.txt) 0 / ?
