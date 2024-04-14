@@ -99,7 +99,7 @@
 	- [ ] [`south_jobs`](human/south_jobs.txt) 0 / ?
 	- [ ] [`syndicate_jobs`](human/syndicate_jobs.txt) 0 / ?
 	- [ ] [`variants`](human/variants.txt) 0 / ?
-	- [ ] [`weapons`](human/weapons.txt) 0 / ?
+	- [ ] [`weapons`](human/weapons.txt) 0 / 69
 - [ ] `iije` 0 / ?
 	- [ ] [`iije`](iije/iije.txt) 0 / ?
 - [ ] `kahet` 0 / ?
