@@ -8,7 +8,7 @@
 	- [ ] [`bunrodea_outfits`](bunrodea/bunrodea_outfits.txt) 0 / ?
 	- [ ] [`bunrodea_ships`](bunrodea/bunrodea_ships.txt) 0 / ?
 	- [ ] [`bunrodea_weapons`](bunrodea/bunrodea_weapons.txt) 0 / ?
-- [ ] [`categories`](categories.txt) 0 / 0
+- [x] [`categories`](categories.txt) 0 / 0
 - [ ] `coalition` 0 / ?
 	- [ ] [`coalition`](coalition/coalition.txt) 0 / ?
 	- [ ] [`coalition_culture_conversations`](coalition/coalition_culture_conversations.txt) 0 / ?
@@ -28,7 +28,7 @@
 	- [ ] [`drak_ships`](drak/drak_ships.txt) 0 / ?
 	- [ ] [`indigenous`](drak/indigenous.txt) 0 / ?
 - [ ] [`effects`](effects.txt) 0 / ?
-- [ ] [`gamerules`](gamerules.txt) 0 / ?
+- [x] [`gamerules`](gamerules.txt) 0 / 0
 - [ ] `gegno` 0 / ?
 	- [ ] [`gegno`](gegno/gegno.txt) 0 / ?
 	- [ ] [`gegno_events`](gegno/gegno_events.txt) 0 / ?
