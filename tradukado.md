@@ -67,7 +67,7 @@
 	- [ ] [`deep_jobs`](human/deep_jobs.txt) 0 / ?
 	- [ ] [`deep_missions`](human/deep_missions.txt) 0 / ?
 	- [ ] [`dirt_belt_jobs`](human/dirt_belt_jobs.txt) 0 / ?
-	- [ ] [`engines`](human/engines.txt) 0 / 60
+	- [ ] [`engines`](human/engines.txt) 0 / ?
 	- [ ] [`far_north_jobs`](human/far_north_jobs.txt) 0 / ?
 	- [ ] [`fleets`](human/fleets.txt) 0 / ?
 	- [ ] [`free_worlds_side_plots`](human/free_worlds_side_plots.txt) 0 / ?
@@ -101,7 +101,7 @@
 	- [ ] [`variants`](human/variants.txt) 0 / ?
 	- [ ] [`weapons`](human/weapons.txt) 0 / 69
 - [ ] `iije` 0 / 2
-	- [ ] [`iije`](iije/iije.txt) 0 / 2
+	- [ ] [`iije`](iije/iije.txt) 0 / ?
 - [ ] `kahet` 0 / ?
 	- [ ] [`kahet`](kahet/kahet.txt) 0 / ?
 	- [ ] [`kahet_outfits`](kahet/kahet_outfits.txt) 0 / ?
@@ -120,7 +120,7 @@
 	- [ ] [`nanobots`](korath/nanobots.txt) 0 / ?
 - [ ] [`map_planets`](map_planets.txt) 0 / ?
 - [ ] [`map_systems`](map_systems.txt) 0 / ?
-- [ ] [`persons`](persons.txt) 0 / 55
+- [ ] [`persons`](persons.txt) 0 / ?
 - [ ] `pug` 0 / ?
 	- [ ] [`pug`](pug/pug.txt) 0 / ?
 	- [ ] [`pug_missions`](pug/pug_missions.txt) 0 / ?
@@ -130,7 +130,7 @@
 - [ ] `quarg` 0 / ?
 	- [ ] [`quarg`](quarg/quarg.txt) 0 / ?
 	- [ ] [`quarg_missions`](quarg/quarg_missions.txt) 0 / ?
-	- [ ] [`quarg_news`](quarg/quarg_news.txt) 0 / 37
+	- [ ] [`quarg_news`](quarg/quarg_news.txt) 0 / ?
 	- [ ] [`quarg_outfits`](quarg/quarg_outfits.txt) 0 / ?
 	- [ ] [`quarg_ships`](quarg/quarg_ships.txt) 0 / ?
 - [ ] `remnant` 0 / ?
@@ -154,7 +154,7 @@
 	- [ ] [`sheragi_outfits`](sheragi/sheragi_outfits.txt) 0 / ?
 	- [ ] [`sheragi_ships`](sheragi/sheragi_ships.txt) 0 / ?
 - [x] [`stars`](stars.txt) 0 / 0
-- [ ] [`start`](start.txt) 1 / 9
+- [ ] [`start`](start.txt) 0 / ?
 - [ ] `vyrmeid` 0 / ?
 	- [ ] [`vyrmeid`](vyrmeid/vyrmeid.txt) 0 / ?
 - [ ] `wanderer` 0 / ?
@@ -178,16 +178,6 @@
 	- [ ] [`landing_messages`](_ui/landing_messages.txt) 0 / ?
 	- [ ] [`ratings`](_ui/ratings.txt) 0 / ?
 	- [ ] [`tooltips`](_ui/tooltips.txt) 0 / ?
-
-## Propraj nomoj
-
-- [ ] `propaj nomoj` 1 / 5,
-
-1. - [ ] `Dirt Belt => Kota Zono`,
-1. - [ ] `Earth => Hejmero`,
-1. - [x] `Endless-sky => Senlima chielo`,
-1. - [ ] `New Boston => Nova Bostono`,
-1. - [ ] `Ruticulus => ?`,
 
 ## Oftaj nomoj
 
