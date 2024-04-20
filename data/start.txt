@@ -13,7 +13,7 @@
 #
 # Translated from <https://github.com/endless-sky/endless-sky/blob/master/data/start.txt>
 
-start "Esperanto"
+start "default"
 	name "Senlima chielo"
 	# origina:
 	#description `You grew up on New Boston, an uninteresting world in the Dirt Belt. You've dreamed of owning a starship ever since your first visit to the spaceport at the age of fifteen. After many long years of working at a textile mill, you've finally saved enough credits to apply for a pilot's license from the Republic.`
