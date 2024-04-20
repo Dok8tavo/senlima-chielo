@@ -1,24 +1,29 @@
-# Copyright (c) 2015 by Michael Zahniser
+# Copyright (c) 2024 by Dok8tavo
 #
-# Endless Sky is free software: you can redistribute it and/or modify it under the
+# Senlima Chielo is free software: you can redistribute it and/or modify it under the
 # terms of the GNU General Public License as published by the Free Software
 # Foundation, either version 3 of the License, or (at your option) any later version.
 #
-# Endless Sky is distributed in the hope that it will be useful, but WITHOUT ANY
+# Senlima Chielo is distributed in the hope that it will be useful, but WITHOUT ANY
 # WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
 # PARTICULAR PURPOSE. See the GNU General Public License for more details.
 #
 # You should have received a copy of the GNU General Public License along with
 # this program. If not, see <https://www.gnu.org/licenses/>.
+#
+# Translated from <https://github.com/endless-sky/endless-sky/blob/master/data/start.txt>
 
-start "default"
+start "Esperanto"
 	name "Senlima chielo"
-	description `You grew up on New Boston, an uninteresting world in the Dirt Belt. You've dreamed of owning a starship ever since your first visit to the spaceport at the age of fifteen. After many long years of working at a textile mill, you've finally saved enough credits to apply for a pilot's license from the Republic.`
-	description `	After receiving the license and with freedom from this planet at your fingertips, you travel to the bank to take out a loan on your first ship...`
+	# origina:
+	#description `You grew up on New Boston, an uninteresting world in the Dirt Belt. You've dreamed of owning a starship ever since your first visit to the spaceport at the age of fifteen. After many long years of working at a textile mill, you've finally saved enough credits to apply for a pilot's license from the Republic.`
+	#description `	After receiving the license and with freedom from this planet at your fingertips, you travel to the bank to take out a loan on your first ship...`
+	description `Vi kreskis sur Nova Bostono, neinteresa mondo en la Kota Zono. Vi revis pri posedi kosmoshipo de kiam vi vizitis la kosmostacio, kiam vi estis dekkvin jaragha. Post multaj jaroj labori en teksilejo, vi fine sparis sufiche da stelmono por peti pilotpermeso de la Respubliko.`
+	description `	Post ricevi la permeson, baldau povonte lasi tiun planedon, vi iras al banko por preni prunton je via unua shipo...`
 	thumbnail "scene/lobby"
 	date 16 11 3013
-	system "Rutilicus"
-	planet "New Boston"
+	system "Rutikuluso"
+	planet "Nova Bostono"
 	conversation "default intro"
 	account
 		credits 480000
@@ -27,7 +32,7 @@ start "default"
 			principal 480000
 			interest 0.004
 			term 365
-	set "license: Pilot's"
+	set "permeso: Piloto"
 
 
 

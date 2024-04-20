@@ -1,5 +1,7 @@
 # Tradukado
 
+Sistemoj estu movitaj je 25 967 je ambaŭ koordinatoj.
+
 ## Dosieroj
 
 - [ ] `bunrodea` 0 / ?
@@ -193,6 +195,7 @@
 1. - [ ] `core => ?`,
 1. - [x] `cooler => malvarmigilo`,
 1. - [x] `credit => stelmono`,
+1. - [x] `Dirt Belt => Kota Zono`,
 1. - [ ] `drive => ?`,
 1. - [ ] `electron => ?`,
 1. - [ ] `engine => ?`,
@@ -202,16 +205,20 @@
 1. - [ ] `human => ?`,
 1. - [ ] `ion => ?`,
 1. - [ ] `jammer => ?`,
-1. - [ ] `license => ?`,
+1. - [x] `license => permeso`,
 1. - [ ] `missile => ?`,
+1. - [x] `New Boston => Nova Bostono`,
 1. - [ ] `pack => ?`,
-1. - [ ] `pilote => ?`,
+1. - [x] `pilote => piloto`,
 1. - [ ] `plasma => ?`,
 1. - [ ] `pod => ?`,
 1. - [ ] `radar => ?`,
 1. - [ ] `regenerator => ?`,
+1. - [x] `Republic => Respubliko`,
+1. - [x] `Ruticulus => Rutikuluso`,
 1. - [ ] `scram => ?`,
 1. - [x] `spaceport => kosmostacio`,
+1. - [x] `starship => kosmoshipo`,
 1. - [ ] `steering => ?`,
 1. - [ ] `thruster => ?`,
 1. - [ ] `turret => ?`,
