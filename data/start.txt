@@ -22,7 +22,7 @@ start "default"
 	description `	Post ricevi la permeson, baldau povonte lasi tiun planedon, vi iras al banko por preni prunton je via unua shipo...`
 	thumbnail "scene/lobby"
 	date 16 11 3013
-	system "Rutikuluso"
+	system "Rutilikuso"
 	planet "Nova Bostono"
 	conversation "default intro"
 	account

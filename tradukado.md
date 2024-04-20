@@ -215,7 +215,7 @@ Sistemoj estu movitaj je 25 967 je ambaŭ koordinatoj.
 1. - [ ] `radar => ?`,
 1. - [ ] `regenerator => ?`,
 1. - [x] `Republic => Respubliko`,
-1. - [x] `Ruticulus => Rutikuluso`,
+1. - [x] `Rutilicus => Rutilikuso`,
 1. - [ ] `scram => ?`,
 1. - [x] `spaceport => kosmostacio`,
 1. - [x] `starship => kosmoshipo`,
