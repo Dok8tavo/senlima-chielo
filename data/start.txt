@@ -32,7 +32,7 @@ start "default"
 			principal 480000
 			interest 0.004
 			term 365
-	set "permeso: Piloto"
+	set "license: Pilote's"
 
 
 
