@@ -10,7 +10,7 @@ Sistemoj estu movitaj je 25 967 je ambaŭ koordinatoj.
 	- [ ] [`bunrodea_outfits`](bunrodea/bunrodea_outfits.txt) 0 / ?
 	- [ ] [`bunrodea_ships`](bunrodea/bunrodea_ships.txt) 0 / ?
 	- [ ] [`bunrodea_weapons`](bunrodea/bunrodea_weapons.txt) 0 / ?
-- [x] [`categories`](categories.txt) 0 / 0
+- [ ] [`categories`](categories.txt) 0 / ?
 - [ ] `coalition` 0 / ?
 	- [ ] [`coalition`](coalition/coalition.txt) 0 / ?
 	- [ ] [`coalition_culture_conversations`](coalition/coalition_culture_conversations.txt) 0 / ?
@@ -30,7 +30,7 @@ Sistemoj estu movitaj je 25 967 je ambaŭ koordinatoj.
 	- [ ] [`drak_ships`](drak/drak_ships.txt) 0 / ?
 	- [ ] [`indigenous`](drak/indigenous.txt) 0 / ?
 - [ ] [`effects`](effects.txt) 0 / ?
-- [x] [`gamerules`](gamerules.txt) 0 / 0
+- [ ] [`gamerules`](gamerules.txt) 0 / ?
 - [ ] `gegno` 0 / ?
 	- [ ] [`gegno`](gegno/gegno.txt) 0 / ?
 	- [ ] [`gegno_events`](gegno/gegno_events.txt) 0 / ?
@@ -101,8 +101,8 @@ Sistemoj estu movitaj je 25 967 je ambaŭ koordinatoj.
 	- [ ] [`south_jobs`](human/south_jobs.txt) 0 / ?
 	- [ ] [`syndicate_jobs`](human/syndicate_jobs.txt) 0 / ?
 	- [ ] [`variants`](human/variants.txt) 0 / ?
-	- [ ] [`weapons`](human/weapons.txt) 0 / 69
-- [ ] `iije` 0 / 2
+	- [ ] [`weapons`](human/weapons.txt) 0 / ?
+- [ ] `iije` 0 / ?
 	- [ ] [`iije`](iije/iije.txt) 0 / ?
 - [ ] `kahet` 0 / ?
 	- [ ] [`kahet`](kahet/kahet.txt) 0 / ?
@@ -150,13 +150,19 @@ Sistemoj estu movitaj je 25 967 je ambaŭ koordinatoj.
 	- [ ] [`rulei`](rulei/rulei.txt) 0 / ?
 	- [ ] [`rulei_outfits`](rulei/rulei_outfits.txt) 0 / ?
 	- [ ] [`rulei_ships`](rulei/rulei_ships.txt) 0 / ?
-- [x] [`series`](series.txt) 0 / 0
+- [ ] [`series`](series.txt) 0 / ?
 - [ ] `sheragi` 0 / ?
 	- [ ] [`archaeology_missions`](sheragi/archaeology_missions.txt) 0 / ?
 	- [ ] [`sheragi_outfits`](sheragi/sheragi_outfits.txt) 0 / ?
 	- [ ] [`sheragi_ships`](sheragi/sheragi_ships.txt) 0 / ?
-- [x] [`stars`](stars.txt) 0 / 0
-- [ ] [`start`](start.txt) 0 / ?
+- [ ] [`stars`](stars.txt) 0 / ?
+- [ ] [`start`](start.txt) 4 / 12
+	- [ ] `default` 4 / 12
+		- [ ] `conversation` 1 / 7
+		- [x] `description` 2 / 2
+		- [x] `license` 1 / 1
+		- [ ] `planet` 0 / 1
+		- [ ] `system` 0 / 1
 - [ ] `vyrmeid` 0 / ?
 	- [ ] [`vyrmeid`](vyrmeid/vyrmeid.txt) 0 / ?
 - [ ] `wanderer` 0 / ?
