@@ -102,8 +102,7 @@ Sistemoj estu movitaj je 25 967 je ambaŭ koordinatoj.
 	- [ ] [`syndicate_jobs`](human/syndicate_jobs.txt) 0 / ?
 	- [ ] [`variants`](human/variants.txt) 0 / ?
 	- [ ] [`weapons`](human/weapons.txt) 0 / ?
-- [ ] `iije` 0 / ?
-	- [ ] [`iije`](iije/iije.txt) 0 / ?
+- [ ] [`iije.iije`](iije/iije.txt) 0 / ?
 - [ ] `kahet` 0 / ?
 	- [ ] [`kahet`](kahet/kahet.txt) 0 / ?
 	- [ ] [`kahet_outfits`](kahet/kahet_outfits.txt) 0 / ?
@@ -121,7 +120,581 @@ Sistemoj estu movitaj je 25 967 je ambaŭ koordinatoj.
 	- [ ] [`korath_weapons`](korath/korath_weapons.txt) 0 / ?
 	- [ ] [`nanobots`](korath/nanobots.txt) 0 / ?
 - [ ] [`map_planets`](map_planets.txt) 0 / ?
-- [ ] [`map_systems`](map_systems.txt) 0 / ?
+- [ ] [`map_systems`](map_systems.txt) 0 / 1135
+	- [ ] `Milky Way` 0 / 1
+	- [ ] `label arachi` 0 / 1
+	- [ ] `label core` 0 / 2
+	- [ ] `label deep` 0 / 2
+	- [ ] `label dirt belt` 0 / 2
+	- [ ] `label earth` 0 / 2
+	- [ ] `label gegno` 0 / 1
+	- [ ] `label graveyard` 0 / 1
+	- [ ] `label hai` 0 / 1
+	- [ ] `label kimek` 0 / 1
+	- [ ] `label korath` 0 / 1
+	- [ ] `label north` 0 / 2
+	- [ ] `label paradise` 0 / 2
+	- [ ] `label rim` 0 / 2
+	- [ ] `label saryds` 0 / 1
+	- [ ] `label south` 0 / 2
+	- [ ] `label wanderers` 0 / 1
+	- [ ] `label waste` 0 / 1
+	- [ ] `pug empty galaxy` 0 / 1
+	- [ ] `1 Axis` 0 / 2
+	- [ ] `10 Pole` 0 / 2
+	- [ ] `11 Autumn above` 0 / 2
+	- [ ] `11 Spring below` 0 / 2
+	- [ ] `12 Autumn above` 0 / 2
+	- [ ] `14 Pole` 0 / 2
+	- [ ] `14 Summer Above` 0 / 2
+	- [ ] `14 Winter Below` 0 / 2
+	- [ ] `16 Autumn Rising` 0 / 2
+	- [ ] `3 Axis` 0 / 2
+	- [ ] `3 Pole` 0 / 2
+	- [ ] `3 Spring Rising` 0 / 2
+	- [ ] `4 Axis` 0 / 2
+	- [ ] `4 Spring Rising` 0 / 2
+	- [ ] `4 Summer Rising` 0 / 2
+	- [ ] `4 Winter Rising` 0 / 2
+	- [ ] `5 Axis` 0 / 2
+	- [ ] `5 Spring Below` 0 / 2
+	- [ ] `5 Summer Above` 0 / 2
+	- [ ] `5 Winter Above` 0 / 2
+	- [ ] `7 Autumn Rising` 0 / 2
+	- [ ] `8 Winter Below` 0 / 2
+	- [ ] `9 Spring Above` 0 / 2
+	- [ ] `Ablodab` 0 / 2
+	- [ ] `Ablub` 0 / 2
+	- [ ] `Acamar` 0 / 2
+	- [ ] `Achernar` 0 / 2
+	- [ ] `Acnanjo` 0 / 2
+	- [ ] `Acrux` 0 / 2
+	- [ ] `Actannka` 0 / 2
+	- [ ] `Adhara` 0 / 2
+	- [ ] `Ae Ce L-332` 0 / 2
+	- [ ] `Ae Ce Q-761` 0 / 2
+	- [ ] `Ae Il A-3` 0 / 2
+	- [ ] `Ae Il B-11` 0 / 2
+	- [ ] `Ae Il F-46` 0 / 2
+	- [ ] `Ae Il G-66` 0 / 2
+	- [ ] `Ae Il H-24` 0 / 2
+	- [ ] `Ae Il I-99` 0 / 2
+	- [ ] `Ae Il M-77` 0 / 2
+	- [ ] `Ae Il O-96` 0 / 2
+	- [ ] `Aescolanus` 0 / 2
+	- [ ] `Aierena` 0 / 2
+	- [ ] `Aik Kamgatake` 0 / 2
+	- [ ] `Aki'il` 0 / 2
+	- [ ] `Aksek` 0 / 2
+	- [ ] `Al Dhanab` 0 / 2
+	- [ ] `Al Hurr` 0 / 2
+	- [ ] `Albaldah` 0 / 2
+	- [ ] `Albireo` 0 / 2
+	- [ ] `Alcyone` 0 / 2
+	- [ ] `Aldebaran` 0 / 2
+	- [ ] `Alderamin` 0 / 2
+	- [ ] `Aldhibain` 0 / 2
+	- [ ] `Aleit` 0 / 2
+	- [ ] `Algenib` 0 / 2
+	- [ ] `Algieba` 0 / 2
+	- [ ] `Algol` 0 / 2
+	- [ ] `Algorel` 0 / 2
+	- [ ] `Alheka` 0 / 2
+	- [ ] `Alhena` 0 / 2
+	- [ ] `Alioth` 0 / 2
+	- [ ] `Alkaid` 0 / 2
+	- [ ] `Almaaz` 0 / 2
+	- [ ] `Almach` 0 / 2
+	- [ ] `Alnair` 0 / 2
+	- [ ] `Alnasl` 0 / 2
+	- [ ] `Alnilam` 0 / 2
+	- [ ] `Alnitak` 0 / 2
+	- [ ] `Alniyat` 0 / 2
+	- [ ] `Alpha Arae` 0 / 2
+	- [ ] `Alpha Centauri` 0 / 2
+	- [ ] `Alpha Hydri` 0 / 2
+	- [ ] `Alphard` 0 / 2
+	- [ ] `Alphecca` 0 / 2
+	- [ ] `Alpheratz` 0 / 2
+	- [ ] `Alpherg` 0 / 2
+	- [ ] `Altair` 0 / 2
+	- [ ] `Aludra` 0 / 2
+	- [ ] `Anbrim` 0 / 2
+	- [ ] `Ancient Hope` 0 / 2
+	- [ ] `Ankaa` 0 / 2
+	- [ ] `Answer` 0 / 2
+	- [ ] `Antares` 0 / 2
+	- [ ] `Antevorta` 0 / 2
+	- [ ] `Ap'arak` 0 / 2
+	- [ ] `Arcturus` 0 / 2
+	- [ ] `Arculus` 0 / 2
+	- [ ] `Arneb` 0 / 2
+	- [ ] `Ascella` 0 / 2
+	- [ ] `Asikafarnut` 0 / 2
+	- [ ] `Asio` 0 / 2
+	- [ ] `Aspidiske` 0 / 2
+	- [ ] `Atik` 0  / 2
+	- [ ] `Atria` 0 / 2
+	- [ ] `Auhru` 0 / 2
+	- [ ] `Avior` 0 / 2
+	- [ ] `Avo Chigo` 0 / 2
+	- [ ] `Aya'k'k` 0 / 2
+	- [ ] `Beginning` 0 / 2
+	- [ ] `Belenos` 0 / 2
+	- [ ] `Bellatrix` 0 / 2
+	- [ ] `Belonging` 0 / 2
+	- [ ] `Belug` 0 / 2
+	- [ ] `Belugt` 0 / 2
+	- [ ] `Beta Lupi` 0 / 2
+	- [ ] `Betelgeuse` 0 / 2
+	- [ ] `Bloptab` 0 / 2
+	- [ ] `Blubipad` 0 / 2
+	- [ ] `Blugtad` 0 / 2
+	- [ ] `Boral` 0 / 2
+	- [ ] `Bore Fah` 0 / 2
+	- [ ] `Bosuno Le` 0 / 2
+	- [ ] `Bote Asu` 0 / 2
+	- [ ] `Bright Void` 0 / 2
+	- [ ] `Broken Bowl` 0 / 2
+	- [ ] `Bunri Lemeta` 0 / 2
+	- [ ] `Caeculus` 0 / 2
+	- [ ] `Canopus` 0 / 2
+	- [ ] `Capella` 0 / 2
+	- [ ] `Caph` 0 / 2
+	- [ ] `Cardax` 0 / 2
+	- [ ] `Cardea` 0 / 2
+	- [ ] `Castor` 0 / 2
+	- [ ] `Cebalrai` 0 / 2
+	- [ ] `Celeborim` 0 / 2
+	- [ ] `Chikatip` 0 / 2
+	- [ ] `Chimitarp` 0 / 2
+	- [ ] `Chirr'ay'akai` 0 / 2
+	- [ ] `Chornifath` 0 / 2
+	- [ ] `Chy'chra` 0 / 2
+	- [ ] `Cinxia` 0 / 2
+	- [ ] `Citadelle` 0 / 2
+	- [ ] `Coluber` 0 / 2
+	- [ ] `Companion` 0 / 2
+	- [ ] `Convector` 0 / 2
+	- [ ] `Cotpoxi` 0 / 2
+	- [ ] `Cshudlye` 0 / 2
+	- [ ] `Da Ent` 0 / 2
+	- [ ] `Da Lest` 0 / 2
+	- [ ] `Dabih` 0 / 2
+	- [ ] `Danoa` 0 / 2
+	- [ ] `Dark Hills` 0 / 2
+	- [ ] `Debrugt` 0 / 2
+	- [ ] `Deep Space 19K12` 0 / 2
+	- [ ] `Deep Space 19M1` 0 / 2
+	- [ ] `Deep Space 19M2` 0 / 2
+	- [ ] `Deep Space 19M5` 0 / 2
+	- [ ] `Deep Space 1Q` 0 / 2
+	- [ ] `Deep Space 1X` 0 / 2
+	- [ ] `Deep Space 5J` 0 / 2
+	- [ ] `Deep Space 5N` 0 / 2
+	- [ ] `Deep Space 5T` 0 / 2
+	- [ ] `Deep Space 7C` 0 / 2
+	- [ ] `Deep Space 7F` 0 / 2
+	- [ ] `Delia` 0 / 2
+	- [ ] `Delta Capricorni` 0 / 2
+	- [ ] `Delta Sagittariì` 0 / 2
+	- [ ] `Delta Velorum` 0 / 2
+	- [ ] `Deneb` 0 / 2
+	- [ ] `Denebola` 0 / 2
+	- [ ] `Devil-Hide` 0 / 2
+	- [ ] `Devil-Run` 0 / 2
+	- [ ] `Diespiter` 0 / 2
+	- [ ] `Diphda` 0 / 2
+	- [ ] `Dixere` 0 / 2
+	- [ ] `Dokdobaru` 0 / 2
+	- [ ] `Dschubba` 0 / 2
+	- [ ] `Dubhe` 0 / 2
+	- [ ] `Due Yoot` 0 / 2
+	- [ ] `Durax` 0 / 2
+	- [ ] `E-4183` 0 / 2
+	- [ ] `E-9182` 0 / 2
+	- [ ] `Eber` 0 / 2
+	- [ ] `Eblumab` 0 / 2
+	- [ ] `Edusa` 0 / 2
+	- [ ] `Eebu` 0 / 2
+	- [ ] `Egeria` 0 / 2
+	- [ ] `Ehma Ti` 0 / 2
+	- [ ] `Ek'kek'ru` 0 / 2
+	- [ ] `Ekuarik` 0 / 2
+	- [ ] `Elifennka` 0 / 2
+	- [ ] `Elnath` 0 / 2
+	- [ ] `Elo Chigo` 0 / 2
+	- [ ] `Eltanin` 0 / 2
+	- [ ] `Empeles` 0 / 2
+	- [ ] `Eneremprukt` 0 / 2
+	- [ ] `Eneva Katta` 0 / 2
+	- [ ] `Enif` 0 / 2
+	- [ ] `Eogho` 0 / 2
+	- [ ] `Epsilon Leonis` 0 / 2
+	- [ ] `Era Natta` 0 / 2
+	- [ ] `Erabu Lemeta` 0 / 2
+	- [ ] `Eragaru Le` 0 / 2
+	- [ ] `Erba Yle` 0 / 2
+	- [ ] `Es'sprak'ai` 0 / 2
+	- [ ] `Eshkoshtar` 0 / 2
+	- [ ] `Esix` 0 / 2
+	- [ ] `Eteron` 0 / 2
+	- [ ] `Evrae` 0 / 2
+	- [ ] `Fah Root` 0 / 2
+	- [ ] `Fah Soom` 0 / 2
+	- [ ] `Fala` 0 / 2
+	- [ ] `Fallen Leaf` 0 / 2
+	- [ ] `Far Horizon` 0 / 2
+	- [ ] `Farbutero` 0 / 2
+	- [ ] `Farinus` 0 / 2
+	- [ ] `Faronektu` 0 / 2
+	- [ ] `Fasitopfar` 0 / 2
+	- [ ] `Fearis` 0 / 2
+	- [ ] `Fell Omen` 0 / 2
+	- [ ] `Feraticus` 0 / 2
+	- [ ] `Fereti` 0 / 2
+	- [ ] `Feroteri` 0 / 2
+	- [ ] `Ferukistek` 0 / 2
+	- [ ] `Fingol` 0 / 2
+	- [ ] `Flugbu` 0 / 2
+	- [ ] `Fomalhaut` 0 / 2
+	- [ ] `Fornarep` 0 / 2
+	- [ ] `Four Pillars` 0 / 2
+	- [ ] `Fscher` 0 / 2
+	- [ ] `Fumalsamakah` 0 / 2
+	- [ ] `Furmeliki` 0 / 2
+	- [ ] `G-3191` 0 / 2
+	- [ ] `G-6183` 0 / 2
+	- [ ] `G-719` 0 / 2
+	- [ ] `G-819` 0 / 2
+	- [ ] `Gacrux` 0 / 2
+	- [ ] `Gamma Cassiopeiae` 0 / 2
+	- [ ] `Gamma Corvi` 0 / 2
+	- [ ] `Gaungu` 0 / 2
+	- [ ] `Genta Bo` 0 / 2
+	- [ ] `Gento Ah` 0 / 2
+	- [ ] `Gerenus` 0 / 2
+	- [ ] `Ghhil` 0 / 2
+	- [ ] `Gienah` 0 / 2
+	- [ ] `Giribea` 0 / 2
+	- [ ] `Girtab` 0 / 2
+	- [ ] `Glubatub` 0 / 2
+	- [ ] `Gomeisa` 0 / 2
+	- [ ] `Good Omen` 0 / 2
+	- [ ] `Gorvi` 0 / 2
+	- [ ] `Graffias` 0 / 2
+	- [ ] `Gualetri` 0 / 2
+	- [ ] `Gupta` 0 / 2
+	- [ ] `H-8188` 0 / 2
+	- [ ] `H-9187` 0 / 2
+	- [ ] `Hadar` 0 / 2
+	- [ ] `Hamal` 0 / 2
+	- [ ] `Han` 0 / 2
+	- [ ] `Hassaleh` 0 / 2
+	- [ ] `Hatysa` 0 / 2
+	- [ ] `Heia Due` 0 / 2
+	- [ ] `Hesselpost` 0 / 2
+	- [ ] `Heutesl` 0 / 2
+	- [ ] `Hevru Hai` 0 / 2
+	- [ ] `Hi Yahr` 0 / 2
+	- [ ] `Hintar` 0 / 2
+	- [ ] `Holeb` 0 / 2
+	- [ ] `Homeward` 0 / 2
+	- [ ] `Host` 0 / 2
+	- [ ] `Hunter` 0 / 2
+	- [ ] `Huud` 0 / 2
+	- [ ] `Iigen` 0 / 2
+	- [ ] `Iinjma` 0 / 2
+	- [ ] `Iise` 0 / 2
+	- [ ] `Ik'kara'ka` 0 / 2
+	- [ ] `Ildaria` 0 / 2
+	- [ ] `Iliniza` 0 / 2
+	- [ ] `Ilirco` 0 / 2
+	- [ ] `Imo Dep` 0 / 2
+	- [ ] `Insitor` 0 / 2
+	- [ ] `Io Lowe` 0 / 2
+	- [ ] `Io Mann` 0 / 2
+	- [ ] `Ipsing` 0 / 2
+	- [ ] `Is Ce B-139` 0 / 2
+	- [ ] `Is Ce F-422` 0 / 2
+	- [ ] `Is Ce G-460` 0 / 2
+	- [ ] `Is Ce J-591` 0 / 2
+	- [ ] `Is Il T-127` 0 / 2
+	- [ ] `Is Il T-94` 0 / 2
+	- [ ] `Is Il V-263` 0 / 2
+	- [ ] `Is Il X-626` 0 / 2
+	- [ ] `Is Il Z-59` 0 / 2
+	- [ ] `Is Il Z-814` 0 / 2
+	- [ ] `Iyech'yek` 0 / 2
+	- [ ] `Izar` 0 / 2
+	- [ ] `Jentu Centi` 0 / 2
+	- [ ] `Jentu Le` 0 / 2
+	- [ ] `Jied` 0 / 2
+	- [ ] `Jyeg Pvu` 0 / 2
+	- [ ] `Jyelio` 0 / 2
+	- [ ] `Ka'ch'chrai` 0 / 2
+	- [ ] `Ka'pru` 0 / 2
+	- [ ] `Kaliptari` 0 / 2
+	- [ ] `Kanguwa` 0 / 2
+	- [ ] `Kappa Centauri` 0 / 2
+	- [ ] `Karhio` 0 / 2
+	- [ ] `Kashikt` 0 / 2
+	- [ ] `Kasikfar` 0 / 2
+	- [ ] `Kaus Australis` 0 / 2
+	- [ ] `Kaus Borealis` 0 / 2
+	- [ ] `Ki War Ek` 0 / 2
+	- [ ] `Kifrana Terberah` 0 / 2
+	- [ ] `Kilema` 0 / 2
+	- [ ] `Kiluit` 0 / 2
+	- [ ] `Kiro'ku` 0 / 2
+	- [ ] `Kiru'kichi` 0 / 2
+	- [ ] `Kneirc` 0 / 2
+	- [ ] `Kochab` 0 / 2
+	- [ ] `Kor Ak'Mari` 0 / 2
+	- [ ] `Kor En'lakfar` 0 / 2
+	- [ ] `Kor Fel'tar` 0 / 2
+	- [ ] `Kor Men` 0 / 2
+	- [ ] `Kor Nor'peli` 0 / 2
+	- [ ] `Kor Tar'bei` 0 / 2
+	- [ ] `Kor Zena'i` 0 / 2
+	- [ ] `Kornephoros` 0 / 2
+	- [ ] `Korsmanath` 0 / 2
+	- [ ] `Kraz` 0 / 2
+	- [ ] `Kugel` 0 / 2
+	- [ ] `Kursa` 0 / 2
+	- [ ] `L-118` 0 / 2
+	- [ ] `L-6181` 0 / 2
+	- [ ] `Last Word` 0 / 2
+	- [ ] `Lesath` 0 / 2
+	- [ ] `Levana` 0 / 2
+	- [ ] `Limen` 0 / 2
+	- [ ] `Lire` 0 / 2
+	- [ ] `Lloloi` 0 / 2
+	- [ ] `Lolami` 0 / 2
+	- [ ] `Lom Tahr` 0 / 2
+	- [ ] `Lone Cloud` 0 / 2
+	- [ ] `Lucina` 0 / 2
+	- [ ] `Lurata` 0 / 2
+	- [ ] `M-1188` 0 / 2
+	- [ ] `MC-42` 0 / 2
+	- [ ] `MS-219` 0 / 2
+	- [ ] `Makferuti` 0 / 2
+	- [ ] `Maoni` 0 / 2
+	- [ ] `Markab` 0 / 2
+	- [ ] `Markeb` 0 / 2
+	- [ ] `Matar` 0 / 2
+	- [ ] `Mebla` 0 / 2
+	- [ ] `Meblumem` 0 / 2
+	- [ ] `Mebsuta` 0 / 2
+	- [ ] `Meftarkata` 0 / 2
+	- [ ] `Mego Faro` 0 / 2
+	- [ ] `Mego Inito` 0 / 2
+	- [ ] `Mego Seo` 0 / 2
+	- [ ] `Mei Yohn` 0 / 2
+	- [ ] `Mekislepti` 0 / 2
+	- [ ] `Men` 0 / 2
+	- [ ] `Menkalinan` 0 / 2
+	- [ ] `Menkar` 0 / 2
+	- [ ] `Menkent` 0 / 2
+	- [ ] `Merak` 0 / 2
+	- [ ] `Mesuket` 0 / 2
+	- [ ] `Miaplacidus` 0 / 2
+	- [ ] `Miblulub` 0 / 2
+	- [ ] `Mimosa` 0 / 2
+	- [ ] `Minkar` 0 / 2
+	- [ ] `Mintaka` 0 / 2
+	- [ ] `Mirach` 0 / 2
+	- [ ] `Mirfak` 0 / 2
+	- [ ] `Mirzam` 0 / 2
+	- [ ] `Misam` 0 / 2
+	- [ ] `Mizar` 0 / 2
+	- [ ] `Mnashyu` 0 / 2
+	- [ ] `Mohuwo` 0 / 2
+	- [ ] `Moktar` 0 / 2
+	- [ ] `Mora` 0 / 2
+	- [ ] `Msalbit` 0 / 2
+	- [ ] `Muhlifain` 0 / 2
+	- [ ] `Muphrid` 0 / 2
+	- [ ] `Naos` 0 / 2
+	- [ ] `Naper` 0 / 2
+	- [ ] `Nenia` 0  / 2
+	- [ ] `Nihal` 0 / 2
+	- [ ] `Nnatai` 0 / 2
+	- [ ] `Nnaug` 0 / 2
+	- [ ] `Nocte` 0 / 2
+	- [ ] `Nona` 0 / 2
+	- [ ] `Nssryos` 0 / 2
+	- [ ] `Nunki` 0 / 2
+	- [ ] `O-3184` 0 / 2
+	- [ ] `Oblate` 0 / 2
+	- [ ] `Oihaug` 0 / 2
+	- [ ] `Ookmya` 0 / 2
+	- [ ] `Oosuoro` 0 / 2
+	- [ ] `Orbona` 0 / 2
+	- [ ] `Orvala` 0 / 2
+	- [ ] `Ossipago` 0 / 2
+	- [ ] `Over the Rainbow` 0 / 2
+	- [ ] `Paeli` 0 / 2
+	- [ ] `Pantica` 0 / 2
+	- [ ] `Parca` 0 / 2
+	- [ ] `Paru Paru` 0 / 2
+	- [ ] `Patir` 0 / 2
+	- [ ] `Pbelnep` 0 / 2
+	- [ ] `Peacock` 0 / 2
+	- [ ] `Pelubta` 0 / 2
+	- [ ] `Peragenor` 0 / 2
+	- [ ] `Peresedersi` 0 / 2
+	- [ ] `Perfica` 0 / 2
+	- [ ] `Persian` 0 / 2
+	- [ ] `Persitar` 0 / 2
+	- [ ] `Phact` 0 / 2
+	- [ ] `Phecda` 0 / 2
+	- [ ] `Pherkad` 0 / 2
+	- [ ] `Phurad` 0 / 2
+	- [ ] `Piadenli` 0 / 2
+	- [ ] `Pik'ro'iyak` 0 / 2
+	- [ ] `Plort` 0 / 2
+	- [ ] `Polaris` 0 / 2
+	- [ ] `Polerius` 0 / 2
+	- [ ] `Pollux` 0 / 2
+	- [ ] `Porrima` 0 / 2
+	- [ ] `Postverta` 0 / 2
+	- [ ] `Prakacha'a` 0 / 2
+	- [ ] `Procyon` 0 / 2
+	- [ ] `Prosa` 0 / 2
+	- [ ] `Ptetubo` 0 / 2
+	- [ ] `Ptobeh` 0 / 2
+	- [ ] `Pukako` 0 / 2
+	- [ ] `Quaru` 0 / 2
+	- [ ] `Queri` 0 / 2
+	- [ ] `Rajak` 0 / 2
+	- [ ] `Rasalhague` 0 / 2
+	- [ ] `Rastaban` 0 / 2
+	- [ ] `Rati Cal` 0 / 2
+	- [ ] `Ravu Kon` 0 / 2
+	- [ ] `Regor` 0 / 2
+	- [ ] `Regulus` 0 / 2
+	- [ ] `Relifer` 0 / 2
+	- [ ] `Remembrance` 0 / 2
+	- [ ] `Rigel` 0 / 2
+	- [ ] `Ritilas` 0 / 2
+	- [ ] `Rouseu` 0 / 2
+	- [ ] `Ruchbah` 0 / 2
+	- [ ] `Rutilicus` 0 / 2
+	- [ ] `Sabik` 0 / 2
+	- [ ] `Sabriset` 0 / 2
+	- [ ] `Sadalmelik` 0 / 2
+	- [ ] `Sadalsuud` 0 / 2
+	- [ ] `Sadr` 0 / 2
+	- [ ] `Sagittarius A*` 0 / 2
+	- [ ] `Saiph` 0 / 2
+	- [ ] `Salipastart` 0 / 2
+	- [ ] `Saquergen` 0 / 2
+	- [ ] `Sargas` 0 / 2
+	- [ ] `Sarin` 0 / 2
+	- [ ] `Sayaiban` 0 / 2
+	- [ ] `Scheat` 0 / 2
+	- [ ] `Schedar` 0 / 2
+	- [ ] `Scija` 0 / 2
+	- [ ] `Segesta` 0 / 2
+	- [ ] `Seginus` 0 / 2
+	- [ ] `Seketra` 0 / 2
+	- [ ] `Sepetrosk` 0 / 2
+	- [ ] `Sepriaptu` 0 / 2
+	- [ ] `Sera Natta` 0 / 2
+	- [ ] `Sevrelect` 0 / 2
+	- [ ] `Shaula` 0 / 2
+	- [ ] `Sheratan` 0 / 2
+	- [ ] `Shini Bori` 0 / 2
+	- [ ] `Si'yak'ku` 0 / 2
+	- [ ] `Sich'ka'ara` 0 / 2
+	- [ ] `Silikatakfar` 0 / 2
+	- [ ] `Silver Bell` 0 / 2
+	- [ ] `Silver String` 0 / 2
+	- [ ] `Similisti` 0 / 2
+	- [ ] `Sirius` 0 / 2
+	- [ ] `Skeruto` 0 / 2
+	- [ ] `Sko'karak` 0 / 2
+	- [ ] `Sobarati` 0 / 2
+	- [ ] `Sol` 0 / 2
+	- [ ] `Sol Arach` 0 / 2
+	- [ ] `Sol Kimek` 0 / 2
+	- [ ] `Sol Saryd` 0 / 2
+	- [ ] `Solifar` 0 / 2
+	- [ ] `Sospi` 0 / 2
+	- [ ] `Speloog` 0 / 2
+	- [ ] `Spica` 0 /2
+	- [ ] `Statina` 0 / 2
+	- [ ] `Steep Roof` 0 / 2
+	- [ ] `Stercutus` 0 / 2
+	- [ ] `Suhail` 0 / 2
+	- [ ] `Sumar` 0 / 2
+	- [ ] `Sumprast` 0 / 2
+	- [ ] `Tais` 0 / 2
+	- [ ] `Talita` 0 / 2
+	- [ ] `Tania Australis` 0 / 2
+	- [ ] `Tarazed` 0 / 2
+	- [ ] `Tebuteb` 0 / 2
+	- [ ] `Tejat` 0 / 2
+	- [ ] `Terminus` 0 / 2
+	- [ ] `Terra Incognita` 0 / 2
+	- [ ] `Thshybo Le` 0 / 2
+	- [ ] `Thuban` 0 / 2
+	- [ ] `Torbab` 0 / 2
+	- [ ] `Tortor` 0 / 2
+	- [ ] `Tscera` 0 / 2
+	- [ ] `Turais` 0 / 2
+	- [ ] `U-5188` 0 / 2
+	- [ ] `Uelawan` 0 / 2
+	- [ ] `Uhebe` 0 / 2
+	- [ ] `Ula Mon` 0 / 2
+	- [ ] `Ultima Thule` 0 / 2
+	- [ ] `Umbral` 0 / 2
+	- [ ] `Unagi` 0 / 2
+	- [ ] `Unukalhai` 0 / 2
+	- [ ] `Urba Pest` 0 / 2
+	- [ ] `Uttna` 0 / 2
+	- [ ] `Uwa Fahn` 0 / 2
+	- [ ] `Uwo Seija` 0 / 2
+	- [ ] `V-2189` 0 / 2
+	- [ ] `Vaiov` 0 / 2
+	- [ ] `Vanguwo` 0 / 2
+	- [ ] `Vaticanus` 0 / 2
+	- [ ] `Vega` 0 / 2
+	- [ ] `Vesvii` 0 / 2
+	- [ ] `Vilacira` 0 / 2
+	- [ ] `Vindemiatrix` 0 / 2
+	- [ ] `Volax` 0 / 2
+	- [ ] `Vorsuke` 0 / 2
+	- [ ] `Vulcuja` 0 / 2
+	- [ ] `W-2197` 0 / 2
+	- [ ] `Wah Ki` 0 / 2
+	- [ ] `Wah Oh` 0 / 2
+	- [ ] `Wah Yoot` 0 / 2
+	- [ ] `Waypoint` 0 / 2
+	- [ ] `Wazn` 0 / 2
+	- [ ] `Wei` 0 / 2
+	- [ ] `Wezen` 0 / 2
+	- [ ] `World's End` 0 / 2
+	- [ ] `Wreoul` 0 / 2
+	- [ ] `Xutluno Fali` 0 / 2
+	- [ ] `Xutluno Rees` 0 / 2
+	- [ ] `Ya Hai` 0 / 2
+	- [ ] `Yed Prior` 0 / 2
+	- [ ] `Yerser` 0 / 2
+	- [ ] `Yli` 0 / 2
+	- [ ] `Yllke` 0 / 2
+	- [ ] `Yranjiu` 0 / 2
+	- [ ] `Zaurak` 0 / 2
+	- [ ] `Zeinar` 0 / 2
+	- [ ] `Zeta Aquilae` 0 / 2
+	- [ ] `Zeta Centauri` 0 / 2
+	- [ ] `Zolpulti` 0 / 2
+	- [ ] `Zosma` 0 / 2
+	- [ ] `Zuba Zub` 0 / 2
+	- [ ] `Zubenelgenubi` 0 / 2
+	- [ ] `Zubenelhakrabi` 0 / 2
+	- [ ] `Zubeneschamali` 0 / 2
 - [ ] [`persons`](persons.txt) 0 / ?
 - [ ] `pug` 0 / ?
 	- [ ] [`pug`](pug/pug.txt) 0 / ?
@@ -163,8 +736,7 @@ Sistemoj estu movitaj je 25 967 je ambaŭ koordinatoj.
 		- [x] `license` 1 / 1
 		- [ ] `planet` 0 / 1
 		- [ ] `system` 0 / 1
-- [ ] `vyrmeid` 0 / ?
-	- [ ] [`vyrmeid`](vyrmeid/vyrmeid.txt) 0 / ?
+- [ ] [`vyrmeid.vyrmeid`](vyrmeid/vyrmeid.txt) 0 / ?
 - [ ] `wanderer` 0 / ?
 	- [ ] [`wanderer_jobs`](wanderer/wanderer_jobs.txt) 0 / ?
 	- [ ] [`wanderer_news`](wanderer/wanderer_news.txt) 0 / ?
