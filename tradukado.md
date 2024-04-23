@@ -119,7 +119,484 @@ Sistemoj estu movitaj je 25 967 je ambaŭ koordinatoj.
 	- [ ] [`korath_variants`](korath/korath_variants.txt) 0 / ?
 	- [ ] [`korath_weapons`](korath/korath_weapons.txt) 0 / ?
 	- [ ] [`nanobots`](korath/nanobots.txt) 0 / ?
-- [ ] [`map_planets`](map_planets.txt) 0 / ?
+- [ ] [`map_planets`](map_planets.txt) 0 / 1678
+    - [ ] `Ablub's Invention` 0 / 4
+    - [ ] `Ada` 0 / 5
+    - [ ] `Aetuah` 0 / 3
+    - [ ] `Ahr` 0 / 4
+    - [ ] `Aksaray` 0 / 3
+    - [ ] `Albatross` 0 / 5
+    - [ ] `Alexandria` 0 / 5
+    - [ ] `Alfheim` 0 / 4
+    - [ ] `Alix` 0 / 2
+    - [ ] `Allhome` 0 / 3
+    - [ ] `Alta Hai` 0 / 4
+    - [ ] `Alvorada` 0 / 3
+    - [ ] `Amazon` 0 / 4
+    - [ ] `Angko` 0 / 3
+    - [ ] `Antipode` 0 / 5
+    - [ ] `Arabia` 0 / 5
+    - [ ] `Arachne Station` 0 / 2
+    - [ ] `Aresepru Nat` 0 / 2
+    - [ ] `Arroharg` 0 / 3
+    - [ ] `Asgard` 0 / 5
+    - [ ] `Ashy Reach` 0 / 3
+    - [ ] `Aspiration` 0 / 3
+    - [ ] `Avalon` 0 / 3
+    - [ ] `Aventine` 0 / 3
+    - [ ] `Babiali` 0 / 3
+    - [ ] `Baianus` 0 / 3
+    - [ ] `Bailey` 0 / 4
+    - [ ] `Bank of Blugtad` 0 / 4
+    - [ ] `Belug's Plunge` 0 / 4
+    - [ ] `Beryl` 0 / 2
+    - [ ] `Big Sky` 0 / 5
+    - [ ] `Bivrost` 0 / 5
+    - [ ] `Bloodsea` 0 / 5
+    - [ ] `Bloptab's Furnace` 0 / 4
+    - [ ] `Blubipad's Workshop` 0 / 3
+    - [ ] `Blue Interior` 0 / 3
+    - [ ] `Bluerun` 0 / 3
+    - [ ] `Bluestone` 0 / 5
+    - [ ] `Bosunothro` 0 / 4
+    - [ ] `Bounty` 0 / 4
+    - [ ] `Bourne` 0 / 5
+    - [ ] `Brass Second` 0 / 3
+    - [ ] `Bright Echo` 0 / 3
+    - [ ] `Buccaneer Bay` 0 / 4
+    - [ ] `Builder Settlement` 0 / 2
+    - [ ] `Bunthro` 0 / 5
+    - [ ] `Burthen` 0 / 5
+    - [ ] `Byruca` 0 / 4
+    - [ ] `Caelian` 0 / 3
+    - [ ] `Calda` 0 / 5
+    - [ ] `Canyon` 0 / 5
+    - [ ] `Capitoline` 0 / 3
+    - [ ] `Carbuncle Station` 0 / 2
+    - [ ] `Ceaseless Toil` 0 / 3
+    - [ ] `Ceilia'sei` 0 / 2
+    - [ ] `Celeatis` 0 / 2
+    - [ ] `Celestial Third` 0 / 3
+    - [ ] `Charon Station` 0 / 6
+    - [ ] `Charybdis Station` 0 / 2
+    - [ ] `Chiron` 0 / 5
+    - [ ] `Chosen Nexus` 0 / 5
+    - [ ] `Cipi` 0 / 3
+    - [ ] `Clark` 0 / 5
+    - [ ] `Clink` 0 / 3
+    - [ ] `Cloudfire` 0 / 3
+    - [ ] `Cold Horizon` 0 / 4
+    - [ ] `Cool Forest` 0 / 3
+    - [ ] `Cornucopia` 0 / 6
+    - [ ] `Corral of Meblumem` 0 / 3
+    - [ ] `Covert` 0 / 3
+    - [ ] `Crataegusa` 0 / 3
+    - [ ] `Crossroads` 0 / 4
+    - [ ] `Cyife` 0 / 2
+    - [ ] `Dancer` 0 / 4
+    - [ ] `Darkcloak` 0 / 5
+    - [ ] `Darkmetal` 0 / 3
+    - [ ] `Darkrest` 0 / 3
+    - [ ] `Darkstone` 0 / 4
+    - [ ] `Darkwaste` 0 / 2
+    - [ ] `Deadman's Cove` 0 / 4
+    - [ ] `Deep` 0 / 4
+    - [ ] `Deep Treasure` 0 / 3
+    - [ ] `Deep Water` 0 / 5
+    - [ ] `Deka Dathnak` 0 / 3
+    - [ ] `Deli Kasi` 0 / 3
+    - [ ] `Deli Kat` 0 / 3
+    - [ ] `Delve` 0 / 7
+    - [ ] `Delve of Bloptab` 0 / 3
+    - [ ] `Desi Seledrak` 0 / 2
+    - [ ] `Devil-Eye` 0 / 3
+    - [ ] `Devil-Run Wormhole` 0 / 2
+    - [ ] `Devru Kaska` 0 / 3
+    - [ ] `Diligent Hand` 0 / 2
+    - [ ] `Disara` 0 / 3
+    - [ ] `Dlia Jzaur` 0 / 3
+    - [ ] `Double Haze` 0 / 5
+    - [ ] `Drekag Firask` 0 / 3
+    - [ ] `Dueitch Ae` 0 / 4
+    - [ ] `Dueyu Eitch` 0 / 4
+    - [ ] `Dune` 0 / 5
+    - [ ] `Dusk Companion` 0 / 3
+    - [ ] `Dustmaker` 0 / 3
+    - [ ] `Dwelling of Speloog` 0 / 4
+    - [ ] `Earth` 0 / 5
+    - [ ] `Eavine` 0 / 2
+    - [ ] `Echo` 0 / 3
+    - [ ] `Eeu Mnai` 0 / 2
+    - [ ] `Ef Aourtdye` 0 / 4
+    - [ ] `Ef Osch` 0 / 4
+    - [ ] `Eldergrasp` 0 / 3
+    - [ ] `Elek Kartanu` 0 / 2
+    - [ ] `Elenchus` 0 / 2
+    - [ ] `Ember Gegno` 0 / 1
+    - [ ] `Ember Graveyard` 0 / 1
+    - [ ] `Ember Reaches` 0 / 2
+    - [ ] `Ember Threshold` 0 / 1
+    - [ ] `Ember Wormhole` 0 / 2
+    - [ ] `Eminonu` 0 / 2
+    - [ ] `Enbye` 0 / 5
+    - [ ] `Enn Bue` 0 / 3
+    - [ ] `Erabuthro` 0 / 5
+    - [ ] `Eragarthro` 0 / 4
+    - [ ] `Esayaku Fen` 0 / 3
+    - [ ] `Esek Stovar` 0 / 3
+    - [ ] `Eskar Kortuka` 0 / 2
+    - [ ] `Esperaktu Station` 0 / 3
+    - [ ] `Esquiline` 0 / 2
+    - [ ] `Essime` 0 / 4
+    - [ ] `Esstch` 0 / 2
+    - [ ] `Everhope` 0 / 3
+    - [ ] `Factory of Eblumab` 0 / 3
+    - [ ] `Far Garden` 0 / 4
+    - [ ] `Far Home` 0 / 5
+    - [ ] `Far Monad` 0 / 2
+    - [ ] `Far'en Lai` 0 / 2
+    - [ ] `Fara Skaeruti` 0 / 3
+    - [ ] `Farpoint` 0 / 4
+    - [ ] `Farseer` 0 / 5
+    - [ ] `Farwater` 0 / 3
+    - [ ] `Featherweight` 0 / 3
+    - [ ] `Fek Rembatu` 0 / 2
+    - [ ] `Fenrir Station` 0 / 4
+    - [ ] `Fertriery` 0 / 2
+    - [ ] `Firefall` 0 / 3
+    - [ ] `Firelode` 0 / 3
+    - [ ] `Firka Tesk` 0 / 2
+    - [ ] `Flood` 0 / 5
+    - [ ] `Flowing Fields` 0 / 5
+    - [ ] `Follower` 0 / 4
+    - [ ] `Forpelog` 0 / 3
+    - [ ] `Foundry` 0 / 6
+    - [ ] `Fourth Shadow` 0 / 3
+    - [ ] `Freedom` 0 / 6
+    - [ ] `Frostmark` 0 / 3
+    - [ ] `Furnace` 0 / 4
+    - [ ] `Gagarin` 0 / 4
+    - [ ] `Gara Pvu` 0 / 2
+    - [ ] `Garden Empyreal` 0 / 5
+    - [ ] `Geminus` 0 / 5
+    - [ ] `Gemstone` 0 / 4
+    - [ ] `Gentle Rain` 0 / 4
+    - [ ] `Geyser` 0 / 5
+    - [ ] `Ghneoe` 0 / 3
+    - [ ] `Giaru Gegno` 0 / 4
+    - [ ] `Giverstone` 0 / 3
+    - [ ] `Glaze` 0 / 5
+    - [ ] `Glittering Ice` 0 / 4
+    - [ ] `Glory` 0 / 6
+    - [ ] `Goldcrawl` 0 / 3
+    - [ ] `Graede` 0 / 3
+    - [ ] `Grakhord` 0 / 3
+    - [ ] `Graveyard Wormhole (Stable)` 0 / 1
+    - [ ] `Graveyard Wormhole (Unstable)` 0 / 1
+    - [ ] `Greenbloom` 0 / 3
+    - [ ] `Greenrock` 0 / 4
+    - [ ] `Greenview` 0 / 4
+    - [ ] `Greenwater` 0 / 3
+    - [ ] `Gresku Fodar` 0 / 3
+    - [ ] `Greymoon` 0 / 3
+    - [ ] `Guardian Array Sapphire` 0 / 5
+    - [ ] `Gue Faur` 0 / 3
+    - [ ] `Hai-home` 0 / 3
+    - [ ] `Hammer of Debrugt` 0 / 3
+    - [ ] `Harmony` 0 / 4
+    - [ ] `Haven` 0 / 5
+    - [ ] `Haze` 0 / 5
+    - [ ] `Heartland` 0 / 4
+    - [ ] `Heartvalley` 0 / 3
+    - [ ] `Helheim` 0 / 4
+    - [ ] `Hephaestus` 0 / 5
+    - [ ] `Hermes` 0 / 4
+    - [ ] `Hestia` 0 / 5
+    - [ ] `Hippocrates` 0 / 5
+    - [ ] `Hope` 0 / 4
+    - [ ] `Hopper` 0 / 5
+    - [ ] `Huginn Station` 0 / 3
+    - [ ] `Humanika` 0 / 5
+    - [ ] `Hydra Station` 0 / 2
+    - [ ] `Icefall` 0 / 5
+    - [ ] `Icelake` 0 / 3
+    - [ ] `Iddesato` 0 / 4
+    - [ ] `Iemn Eitch` 0 / 3
+    - [ ] `Illbo Avo` 0 / 4
+    - [ ] `Illbo Elo` 0 / 3
+    - [ ] `Ingot` 0 / 5
+    - [ ] `Inmost Blue` 0 / 3
+    - [ ] `Into White` 0 / 4
+    - [ ] `Iritoroost` 0 / 3
+    - [ ] `Ironfirth` 0 / 3
+    - [ ] `Jakobsen` 0 / 4
+    - [ ] `Janiculum` 0 / 3
+    - [ ] `Jentuthro` 0 / 5
+    - [ ] `Jupiter` 0 / 3
+    - [ ] `Kaeyin` 0 / 4
+    - [ ] `Kalbai` 0 / 3
+    - [ ] `Karek Fornati` 0 / 4
+    - [ ] `Kasichara Fet` 0 / 2
+    - [ ] `Keneska Fek` 0 / 3
+    - [ ] `Kessel Sepret` 0 / 3
+    - [ ] `Ki Patek Ka` 0 / 3
+    - [ ] `Kisarra` 0 / 4
+    - [ ] `Korati Efreti` 0 / 4
+    - [ ] `Korbatri Eska` 0 / 2
+    - [ ] `Kort Kehai` 0 / 4
+    - [ ] `Kort Vek'kri` 0 / 3
+    - [ ] `Kraken Station` 0 / 5
+    - [ ] `Kumkapi` 0 / 3
+    - [ ] `Kuwaru Efreti` 0 / 4
+    - [ ] `Lagrange` 0 / 3
+    - [ ] `Laki Nemparu` 0 / 3
+    - [ ] `Lenz's Loop` 0 / 3
+    - [ ] `Letis'sei` 0 / 2
+    - [ ] `Leviathan Station` 0 / 4
+    - [ ] `Lichen` 0 / 6
+    - [ ] `Limejog` 0 / 3
+    - [ ] `Lodestone` 0 / 4
+    - [ ] `Longjump` 0 / 5
+    - [ ] `Luna` 0 / 5
+    - [ ] `Maelstrom` 0 / 4
+    - [ ] `Mahoganybox` 0 / 3
+    - [ ] `Mainsail` 0 / 5
+    - [ ] `Maker` 0 / 4
+    - [ ] `Makerplace` 0 / 3
+    - [ ] `Mani` 0 / 5
+    - [ ] `Market of Gupta` 0 / 3
+    - [ ] `Mars` 0 / 4
+    - [ ] `Martini` 0 / 3
+    - [ ] `Mebla's Portion` 0 / 3
+    - [ ] `Melenci` 0 / 3
+    - [ ] `Memory` 0 / 5
+    - [ ] `Mendez Station` 0 / 3
+    - [ ] `Merask Fortuno` 0 / 3
+    - [ ] `Mere` 0 / 4
+    - [ ] `Mereti Station` 0 / 3
+    - [ ] `Miblulub's Plenty` 0 / 3
+    - [ ] `Midgard` 0 / 5
+    - [ ] `Midway Emerald` 0 / 3
+    - [ ] `Millrace` 0 / 6
+    - [ ] `Mirrorlake` 0 / 3
+    - [ ] `Mnai` 0 / 3
+    - [ ] `Moonshake` 0 / 5
+    - [ ] `Mordente-Bridi` 0 / 3
+    - [ ] `Muninn Station` 0 / 3
+    - [ ] `Muspel` 0 / 4
+    - [ ] `Mutiny` 0 / 2
+    - [ ] `Mystery` 0 / 2
+    - [ ] `Nasqueron` 0 / 2
+    - [ ] `Nearby Jade` 0 / 3
+    - [ ] `Nepheritis` 0 / 3
+    - [ ] `New Argentina` 0 / 4
+    - [ ] `New Austria` 0 / 6
+    - [ ] `New Boston` 0 / 5
+    - [ ] `New Britain` 0 / 5
+    - [ ] `New China` 0 / 5
+    - [ ] `New Finding` 0 / 5
+    - [ ] `New Greenland` 0 / 6
+    - [ ] `New Holland` 0 / 4
+    - [ ] `New Iceland` 0 / 5
+    - [ ] `New India` 0 / 5
+    - [ ] `New Kansas` 0 / 5
+    - [ ] `New Portland` 0 / 4
+    - [ ] `New Sahara` 0 / 4
+    - [ ] `New Switzerland` 0 / 5
+    - [ ] `New Tibet` 0 / 6
+    - [ ] `New Tortuga` 0 / 5
+    - [ ] `New Wales` 0 / 5
+    - [ ] `New Washington` 0 / 5
+    - [ ] `Newhome` 0 / 4
+    - [ ] `Nifel` 0 / 5
+    - [ ] `Nimbus` 0 / 5
+    - [ ] `Norn` 0 / 5
+    - [ ] `Oasis` 0 / 4
+    - [ ] `Oberon Station` 0 / 2
+    - [ ] `Oblivion` 0 / 4
+    - [ ] `Ochrescoop` 0 / 4
+    - [ ] `Ogmur's Siphon` 0 / 5
+    - [ ] `Okoity` 0 / 4
+    - [ ] `Olohoa` 0 / 2
+    - [ ] `Osaeli` 0 / 2
+    - [ ] `Oup Je` 0 / 3
+    - [ ] `Palarei` 0 / 2
+    - [ ] `Palatine` 0 / 3
+    - [ ] `Parii'het` 0 / 2
+    - [ ] `Passaritus` 0 / 3
+    - [ ] `Pearl` 0 / 4
+    - [ ] `Pelubta Station` 0 / 4
+    - [ ] `Periaxle Circuit` 0 / 4
+    - [ ] `Phoenix Station` 0 / 2
+    - [ ] `Pilot` 0 / 4
+    - [ ] `Pincian` 0 / 3
+    - [ ] `Placatious` 0 / 3
+    - [ ] `Placer` 0 / 5
+    - [ ] `Plort's Water` 0 / 3
+    - [ ] `Poisonwood` 0 / 5
+    - [ ] `Poseidos` 0 / 4
+    - [ ] `Prime` 0 / 3
+    - [ ] `Pug Wormhole` 0 / 1
+    - [ ] `Pugglemug` 0 / 3
+    - [ ] `Pugglequat` 0 / 3
+    - [ ] `Pyriphlegethon` 0 / 3
+    - [ ] `Quicksilver` 0 / 5
+    - [ ] `Quirinal` 0 / 3
+    - [ ] `Rand` 0 / 4
+    - [ ] `Redwatch` 0 / 3
+    - [ ] `Refuge of Belugt` 0 / 4
+    - [ ] `Rekat Moraski` 0 / 3
+    - [ ] `Relic` 0 / 4
+    - [ ] `Remnant Wormhole` 0 / 2
+    - [ ] `Remote Blue` 0 / 3
+    - [ ] `Retilie` 0 / 2
+    - [ ] `Reunion` 0 / 4
+    - [ ] `Revelation` 0 / 2
+    - [ ] `Ring of Friendship` 0 / 4
+    - [ ] `Ring of Power` 0 / 4
+    - [ ] `Ring of Wisdom` 0 / 4
+    - [ ] `Ruelogakk` 0 / 3
+    - [ ] `Ruin` 0 / 5
+    - [ ] `Rust` 0 / 5
+    - [ ] `Rusty Second` 0 / 4
+    - [ ] `Sabira Eseskrai` 0 / 3
+    - [ ] `Safaresk Enlai` 0 / 4
+    - [ ] `Sandsnap` 0 / 3
+    - [ ] `Sandy Two` 0 / 3
+    - [ ] `Sapira Mereti` 0 / 3
+    - [ ] `Sardva` 0 / 4
+    - [ ] `Sarisa Fentra` 0 / 3
+    - [ ] `Saros` 0 / 3
+    - [ ] `Sasirka Gatru` 0 / 2
+    - [ ] `Sebarep Atarkis` 0 / 3
+    - [ ] `Sebra Skira` 0 / 3
+    - [ ] `Second Cerulean` 0 / 4
+    - [ ] `Second Rose` 0 / 4
+    - [ ] `Second Viridian` 0 / 4
+    - [ ] `Secret Sky` 0 / 4
+    - [ ] `Sek Alarfarat` 0 / 2
+    - [ ] `Selefkar Refinery` 0 / 3
+    - [ ] `Seleptra Nak` 0 / 3
+    - [ ] `Seli'het` 0 / 2
+    - [ ] `Separa Tiklar` 0 / 3
+    - [ ] `Septar Lorku` 0 / 3
+    - [ ] `Seraglio` 0 / 3
+    - [ ] `Serpens` 0 / 4
+    - [ ] `Servian` 0 / 3
+    - [ ] `Sessiliki Far` 0 / 3
+    - [ ] `Sestor Ikfar` 0 / 3
+    - [ ] `Setar Fort` 0 / 3
+    - [ ] `Shadow of Leaves` 0 / 4
+    - [ ] `Shadowed Valley` 0 / 4
+    - [ ] `Shangri-La` 0 / 3
+    - [ ] `Shifting Sand` 0 / 3
+    - [ ] `Shih's Locker` 0 / 3
+    - [ ] `Shiver` 0 / 5
+    - [ ] `Shorebreak` 0 / 4
+    - [ ] `Shroud` 0 / 4
+    - [ ] `Siedi` 0 / 3
+    - [ ] `Sies Upi` 0 / 3
+    - [ ] `Silo of Ablodab` 0 / 3
+    - [ ] `Silver` 0 / 5
+    - [ ] `Sinter` 0 / 3
+    - [ ] `Siteria` 0 / 2
+    - [ ] `Skillet` 0 / 3
+    - [ ] `Skyfarm` 0 / 5
+    - [ ] `Skymoot` 0 / 4
+    - [ ] `Slylandro` 0 / 2
+    - [ ] `Smuggler's Den` 0 / 3
+    - [ ] `Snowfeather` 0 / 3
+    - [ ] `Solace` 0 / 6
+    - [ ] `Solima Skarati` 0 / 2
+    - [ ] `Sopi Lefarkata` 0 / 3
+    - [ ] `Sopoyra` 0 / 4
+    - [ ] `Spera Anatrusk` 0 / 2
+    - [ ] `Splashdown` 0 / 5
+    - [ ] `Ssil Vida` 0 / 3
+    - [ ] `Starcross` 0 / 5
+    - [ ] `Starting Rubin` 0 / 4
+    - [ ] `Station Cian` 0 / 3
+    - [ ] `Steamwater` 0 / 3
+    - [ ] `Stonebreak` 0 / 4
+    - [ ] `Stormhold` 0 / 3
+    - [ ] `Stronghold of Flugbu` 0 / 4
+    - [ ] `Sundive` 0 / 5
+    - [ ] `Sundrinker` 0 / 3
+    - [ ] `Sunracer` 0 / 6
+    - [ ] `Swiftsong` 0 / 4
+    - [ ] `Tebuteb's Table` 0 / 4
+    - [ ] `Tefkar Ret` 0 / 2
+    - [ ] `Ternituul` 0 / 4
+    - [ ] `Third Umber` 0 / 4
+    - [ ] `Thornlight` 0 / 3
+    - [ ] `Thrall` 0 / 4
+    - [ ] `Thshybothro` 0 / 5
+    - [ ] `Thule` 0 / 3
+    - [ ] `Thunder` 0 / 3
+    - [ ] `Tibernia` 0 / 2
+    - [ ] `Tik Klai` 0 / 4
+    - [ ] `Tinker` 0 / 4
+    - [ ] `Topkapi` 0 / 3
+    - [ ] `Trinket` 0 / 5
+    - [ ] `Triton Station` 0 / 3
+    - [ ] `Trove` 0 / 4
+    - [ ] `Truklar` 0 / 3
+    - [ ] `Tschyss` 0 / 3
+    - [ ] `Tundra` 0 / 5
+    - [ ] `Turquoise Four` 0 / 3
+    - [ ] `Twinstar` 0 / 4
+    - [ ] `Typhon Station` 0 / 2
+    - [ ] `Vail` 0 / 5
+    - [ ] `Valhalla` 0 / 5
+    - [ ] `Valley of the Damned` 0 / 3
+    - [ ] `Var Oti` 0 / 2
+    - [ ] `Var' Kar'i'i` 0 / 4
+    - [ ] `Var' Kayi` 0 / 4
+    - [ ] `Var' Roi` 0 / 3
+    - [ ] `Vara K'chrai` 0 / 4
+    - [ ] `Vara Ke'sok` 0 / 3
+    - [ ] `Vara Ke'stai` 0 / 3
+    - [ ] `Vara Kehi'ki` 0 / 3
+    - [ ] `Vara Pug` 0 / 5
+    - [ ] `Vara Rakak` 0 / 3
+    - [ ] `Varu Ek'lak'lai` 0 / 4
+    - [ ] `Varu K'est` 0 / 3
+    - [ ] `Varu K'prai` 0 / 3
+    - [ ] `Varu Mer'ek` 0 / 3
+    - [ ] `Varu Tek'kai` 0 / 3
+    - [ ] `Varu Tev'kei` 0 / 3
+    - [ ] `Vatican` 0 / 2
+    - [ ] `Veiuye` 0 / 2
+    - [ ] `Veliante` 0 / 2
+    - [ ] `Vibrant Water` 0 / 4
+    - [ ] `Vigales` 0 / 2
+    - [ ] `Viminal` 0 / 3
+    - [ ] `Vinci` 0 / 4
+    - [ ] `Violetwake` 0 / 3
+    - [ ] `Vivid Aether` 0 / 3
+    - [ ] `Warfeed` 0 / 4
+    - [ ] `Warm Slope` 0 / 3
+    - [ ] `Warm Wind` 0 / 3
+    - [ ] `Watcher` 0 / 2
+    - [ ] `Wayfarer` 0 / 4
+    - [ ] `Weir of Glubatub` 0 / 4
+    - [ ] `Windblain` 0 / 5
+    - [ ] `Winter` 0 / 5
+    - [ ] `Wormhole Alpha` 0 / 2
+    - [ ] `Wormhole Barren Alpha` 0 / 1
+    - [ ] `Wormhole Barren Beta` 0 / 1
+    - [ ] `Wormhole Link` 0 / 1
+    - [ ] `Wye Tzeou` 0 / 3
+    - [ ] `Wyvern Station` 0 / 3
+    - [ ] `Xerolophos` 0 / 3
+    - [ ] `Xurelei` 0 / 3
+    - [ ] `Yedikule` 0 / 3
+    - [ ] `Yiia Iyr` 0 / 2
+    - [ ] `Yniu Eiu` 0 / 3
+    - [ ] `Yniu Ena` 0 / 2
+    - [ ] `Zenith` 0 / 4
+    - [ ] `Zug` 0 / 5
+    - [ ] `Zydee` 0 / 2
 - [ ] [`map_systems`](map_systems.txt) 0 / 1135
 	- [ ] `Milky Way` 0 / 1
 	- [ ] `label arachi` 0 / 1
