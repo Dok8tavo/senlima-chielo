@@ -1216,7 +1216,7 @@ Sistemoj estu movitaj je 25 967 je ambaŭ koordinatoj.
 	- [ ] [`archaeology_missions`](sheragi/archaeology_missions.txt) 0 / ?
 	- [ ] [`sheragi_outfits`](sheragi/sheragi_outfits.txt) 0 / ?
 	- [ ] [`sheragi_ships`](sheragi/sheragi_ships.txt) 0 / ?
-- [ ] [`stars`](stars.txt) 0 / ?
+- [x] [`stars`](stars.txt) 0 / 0
 - [ ] [`start`](start.txt) 4 / 12
 	- [ ] `default` 4 / 12
 		- [ ] `conversation` 1 / 7
