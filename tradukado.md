@@ -83,7 +83,18 @@ Sistemoj estu movitaj je 25 967 je ambaŭ koordinatoj.
 	- [ ] [`frontier_jobs`](human/frontier_jobs.txt) 0 / ?
 	- [ ] [`hails`](human/hails.txt) 0 / ?
 	- [ ] [`human_missions`](human/human_missions.txt) 0 / ?
-	- [ ] [`intro_missions`](human/intro_missions.txt) 0 / ?
+	- [ ] [`intro_missions`](human/intro_missions.txt) 0 / 208
+	    - [ ] `Intro [0]` 0 / 37
+		- [ ] `Intro [1 Transport]` 0 / 14
+		- [ ] `Intro [2 Transport]` 0 / 10
+		- [ ] `Intro [3 Transport]` 0 / 10
+		- [ ] `Intro [1 Freighter]` 0 / 15
+		- [ ] `Intro [2 Freighter]` 0 / 18
+		- [ ] `Intro [3 Freighter]` 0 / 11
+		- [ ] `Intro [1 Interceptor]` 0 / 11
+		- [ ] `Intro [2 Interceptor]` 0 / 19
+		- [ ] `Intro [2.1 Interceptor]` 0 / 31
+		- [ ] `Intro [3 Interceptor]` 0 / 32
 	- [ ] [`jobs`](human/jobs.txt) 0 / ?
 	- [ ] [`kestrel`](human/kestrel.txt) 0 / ?
 	- [ ] [`marauders`](human/marauders.txt) 0 / ?
