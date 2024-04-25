@@ -60,8 +60,7 @@ Sistemoj estu movitaj je 25 967 je ambaŭ koordinatoj.
 	- [ ] [`hai_reveal_7_epilogue`](hai/hai_reveal_7_epilogue.txt) 0 / ?
 	- [ ] [`unfettered_jobs`](hai/unfettered_jobs.txt) 0 / ?
 	- [ ] [`unfettered_0_prologue`](hai/unfettered_0_prologue.txt) 0 / ?
-- [ ] [`harvesting`](harvesting.txt) 0 / ?
-- [x] [`hazards`](hazards.txt) 0 / 42
+- [ ] [`harvesting`](harvesting.txt) 0 / 42
 	- [ ] `Aluminum` 0 / 3
 	- [ ] `Copper` 0 / 3
 	- [ ] `Gold` 0 / 3
@@ -76,6 +75,7 @@ Sistemoj estu movitaj je 25 967 je ambaŭ koordinatoj.
 	- [ ] `Uranium` 0 / 3
 	- [ ] `Yottrite` 0 / 3
 	- [ ] `Void Orchid` 0 / 3
+- [x] [`hazards`](hazards.txt) 0 / 0
 - [ ] `human` 0 / ?
 	- [ ] [`boarding_missions`](human/boarding_missions.txt) 0 / ?
 	- [ ] [`campaign_events`](human/campaign_events.txt) 0 / ?
