@@ -1183,7 +1183,41 @@ Sistemoj estu movitaj je 25 967 je ambaŭ koordinatoj.
 	- [ ] `Zubenelgenubi` 0 / 2
 	- [ ] `Zubenelhakrabi` 0 / 2
 	- [ ] `Zubeneschamali` 0 / 2
-- [ ] [`persons`](persons.txt) 0 / ?
+- [ ] [`persons`](persons.txt) 0 / 99
+	- [ ] `Michael Zahniser` 0 / 5
+	- [ ] `Finch Finch (MZ)` 0 / 1
+	- [ ] `Cap'n Pester` 0 / 3
+	- [ ] `Marauding Max` 0 / 4
+	- [ ] `Marauder Fury` 0 / 3
+	- [ ] `Captain Nate` 0 / 6
+	- [ ] `Tranquility` 0 / 3
+	- [ ] `Lampyrid-Class Transport` 0 / 1
+	- [ ] `Power of the People` 0 / 5
+	- [ ] `Modified Osprey` 0 / 1
+	- [ ] `Local God` 0 / 6
+	- [ ] `Ursa Polaris` 0 / 2
+	- [ ] `LG Gridfire Turret` 0 / 1
+	- [ ] `Subsidurial` 0 / 1
+	- [ ] `Prototype B3-CC4` 0 / 8
+	- [ ] `Shooting Star` 0 / 4
+	- [ ] `Crystal Projector` 0 / 2
+	- [ ] `Floating Crystal` 0 / 3
+	- [ ] `Crystalline Formation` 0 / 2
+	- [ ] `Hexagonal Crystal` 0 / 2
+	- [ ] `Tree Skeleton Key Stone` 0 / 2
+	- [ ] `Rais Iris XVIII` 0 / 4
+	- [ ] `Marauder Bactrian` 0 / 1
+	- [ ] `Zitchas` 0 / 4
+	- [ ] `Brick` 0 / 2
+	- [ ] `Modified Boxwing` 0 / 3
+	- [ ] `Gefullte Taubenbrust` 0 / 2
+	- [ ] `Modified Battleship` 0 / 2
+	- [ ] `Prototype Fusion Cannon` 0 / 2
+	- [ ] `MasterOfGrey` 0 / 2
+	- [ ] `Modified Ladybug` 0 / 2
+	- [ ] `Patrol Team` 0 / 4
+	- [ ] `Waverider` 0 / 3
+	- [ ] `Emotional Baggage` 0 / 3
 - [ ] `pug` 0 / ?
 	- [ ] [`pug`](pug/pug.txt) 0 / ?
 	- [ ] [`pug_missions`](pug/pug_missions.txt) 0 / ?
